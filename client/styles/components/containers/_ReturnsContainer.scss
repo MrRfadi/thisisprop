@@ -1,0 +1,192 @@
+.ReturnsContainer-section {
+  @include gridle(12);
+
+  &.is-active {
+    header i {
+      transform: rotate(90deg);
+    }
+  }
+
+  &:not(:nth-of-type(1)) {
+    .ReturnsContainer-values {
+      height: 0;
+    }
+  }
+}
+
+.uihidden
+{
+visibility: hidden;
+}
+
+.ReturnsContainer-header {
+  padding: 15px;
+  cursor: pointer;
+  transition: all 0.25s ease-in-out;
+  border: 1px solid $color-black;
+  margin-bottom: 20px;
+
+  &:hover {
+    background-color: $color-green-accent;
+    border-color: $color-green-accent;
+
+    h3, i {
+      color: $color-white;
+    }
+  }
+
+  h3, i {
+    transition: all 0.25s ease-in-out;
+    color: $color-green-primary;
+  }
+
+  h3 {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: normal;
+  }
+}
+
+.ReturnsContainer-values {
+  overflow: hidden;
+
+  ul {
+    @include gridle(6);
+
+    li {
+      @include gridle(12);
+
+      padding: 3px 8px;
+      display: block;
+      float: none;
+      border-bottom: 1px solid rgba(0,0,0,0.05);
+
+      span {
+        font-size: 14px;
+      }
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+  }
+
+  .ReturnsContainer-allInCosts
+  {
+    border: 1px solid #999;
+    border-radius: 10px !important;
+    margin-bottom:10px;
+  }
+
+  .ReturnsContainer-loanAmount
+  {
+    background-color: rgba(darkgray, 0.7);
+    border-radius: 10px !important;
+    color: white;
+  }
+
+  .ReturnsContainer-monthlyPayments,.ReturnsContainer-bankPayments
+  {
+    background-color: rgba(darkgray, 0.7);
+    border-radius: 10px !important;
+    color: white;
+  }
+
+  .ReturnsContainer-annualPayments,.ReturnsContainer-incomemultiplier,.ReturnsContainer-deposit,.ReturnsContainer-term,.ReturnsContainer-mortbroker,.ReturnsContainer-interestRate,.ReturnsContainer-mortgageType
+  {
+    border: 1px solid #999;
+    border-radius: 10px !important;
+
+  }
+
+  .ReturnsContainer-allInCosts1
+  {
+    margin-bottom:10px;
+  }
+
+  .ReturnsContainer-bankCosts, .ReturnsContainer-amortisationPaid
+  {
+   // border: 1px solid rgba($color-green-primary, 0.7);
+    background-color: rgba($color-green-primary, 0.7);
+    border-radius: 10px !important;
+    color:white;
+  }
+
+  .ReturnsContainer-interestPaid, .ReturnsContainer-amortisation
+  {
+   // border: 1px solid rgba($color-green-primary, 0.6);
+    background-color: rgba($color-green-primary, 0.6);
+    border-radius: 10px !important;
+    color:white;
+  }
+
+  .ReturnsContainer-brokerFee
+  {
+    // border: 1px solid rgba($color-green-primary, 0.5);
+    background-color: rgba($color-green-primary, 0.5);
+    border-radius: 10px !important;
+    color:white;
+  }
+
+  .ReturnsContainer-total,.ReturnsContainer-interestPaid2
+  {
+    //border: 1px solid rgb(255, 127, 80);
+    background-color: rgb(255, 127, 80);
+    border-radius: 10px !important;
+    color:white;
+  }
+
+  .ReturnsContainer-depositPaid,.ReturnsContainer-stamDutyPaid
+  {
+   // border: 1px solid rgb(255, 127, 80);
+    background-color: rgb(255, 145, 109);
+    border-radius: 10px !important;
+    color:white;
+  }
+
+  .ReturnsContainer-legalFees,.ReturnsContainer-surveyFees
+  {
+    // border: 1px solid rgb(255, 127, 80);
+    background-color: rgb(252, 158, 132);
+    border-radius: 10px !important;
+    color:white;
+  }
+
+  .anticon {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+}
+
+.ReturnsContainer-profit {
+  background-color: $color-green-primary;
+  color: $color-white;
+}
+
+.ReturnsContainer-salePrice {
+  margin-top: 20px;
+  background-color: rgba($color-black, 0.3);
+}
+
+.ReturnsContainer-governmentProfit {
+  border-bottom: none !important;
+}
+
+.ReturnsContainer-price {
+  margin-top: 20px;
+  background-color: rgba($color-black, 0.3);
+}
+
+.ReturnsContainer-holdPeriod {
+  margin-top: 20px;
+}
+
+.ReturnsContainer-graph {
+  @include gridle(6);
+}
+
+.ChartContainer-Mortgge
+{
+  margin-top:20px;
+  @include gridle(12);
+}

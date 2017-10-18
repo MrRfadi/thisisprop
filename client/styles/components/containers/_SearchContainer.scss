@@ -1,0 +1,198 @@
+.SearchContainer {
+  @include gridle(12);
+
+
+  &.is-active {
+    header i {
+      transform: rotate(90deg);
+    }
+  }
+  margin-bottom: 20px;
+}
+
+.SearchContainer-Disp
+{
+  overflow: hidden;
+  margin-top:20px;
+  //border-top:1px solid black;
+}
+
+.SearchContainer-Disp hr{
+  margin-bottom:10px;
+}
+
+.gored
+{
+  border:1px solid red !important;
+}
+
+.AppBtn
+{
+  @include gridle(12);
+  display:none;
+  @include gridle_state ( xs ) {
+   display:block;
+  }
+  margin-bottom:10px;
+}
+
+.MortgageAndReturns
+{
+  @include gridle_state ( xs ) {
+    display:none;
+   }
+
+   @include gridle_state ( sm ) {
+    display:block;
+   }
+
+   @include gridle_state ( md ) {
+    display:block;
+   }
+
+   @include gridle_state ( lg ) {
+    display:block;
+   }
+}
+
+.SearchAndListings
+{
+  @include gridle_state ( xs ) {
+    display:block;
+   }
+  
+  @include gridle_state ( sm ) {
+    display:block;
+   }
+
+   @include gridle_state ( md ) {
+    display:block;
+   }
+
+   @include gridle_state ( lg ) {
+    display:block;
+   }
+   
+}
+
+.SelctBtn
+{
+  @include gridle(6);
+  height: 30px;
+  background:white;
+  border:1px solid #999;
+  border-bottom:none;
+  border-radius:4px;
+  font-size:14px;
+  outline:none;
+}
+
+.SelctBtn:hover{
+cursor: pointer;
+}
+
+.ActBtn
+{
+  background: rgba(70, 147, 140, 1);
+  border:1px solid rgba(70, 147, 140, 1);
+  color:white;
+}
+
+.Invisble
+{
+  @include gridle_state ( xs ) {
+    display:none !important;
+   }
+ 
+}
+
+/*.SearchContainer-nav {
+  @include gridle(12);
+  ul {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  li {
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+
+    &:hover {
+      color: $color-green-secondary;
+    }
+
+    i {
+      font-size: 10px;
+      margin-left: 5px;
+      transform: rotate(0);
+      transition: transform 0.2s ease-in-out;
+    }
+
+    &.active {
+      color: $color-green-primary;
+
+      i {
+        transform: rotate(90deg);
+      }
+    }
+  }
+}
+
+.SearchContainer-inputs {
+  @include gridle(12);
+
+  position: relative;
+  height: 60px;
+  margin-bottom: 10px;
+
+  >div {
+    @include gridle(12);
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease-in-out;
+
+    &.active {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+}
+
+.SearchContainer-inputWrapper {
+  @include gridle(container);
+
+  margin: 10px 0 20px;
+}*/
+
+.SearchContainer-zooplaLogo {
+  width: 70px;
+  float: right;
+}
+
+.Filtrbtn
+{
+  background:white;
+  border:1px solid rgb(160, 160, 160);
+  font-size: 14px;
+  padding:5px 10px;
+  border-radius:12px;
+  width: auto;
+  outline:none;
+}
+
+.Filtrbtn:hover{
+  //background:rgba(70, 147, 140, 0.7);
+  cursor: pointer;
+  border:1px solid rgba(70, 147, 140, 1);
+  color:rgba(70, 147, 140, 1);
+  //color:white;
+}

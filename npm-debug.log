@@ -1,0 +1,2815 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'update',
+1 verbose cli   '--save' ]
+2 info using npm@3.10.10
+3 info using node@v6.10.3
+4 silly mapToRegistry name antd
+5 silly mapToRegistry using default registry
+6 silly mapToRegistry registry https://registry.npmjs.org/
+7 silly mapToRegistry data Result {
+7 silly mapToRegistry   raw: 'antd',
+7 silly mapToRegistry   scope: null,
+7 silly mapToRegistry   escapedName: 'antd',
+7 silly mapToRegistry   name: 'antd',
+7 silly mapToRegistry   rawSpec: '',
+7 silly mapToRegistry   spec: 'latest',
+7 silly mapToRegistry   type: 'tag' }
+8 silly mapToRegistry uri https://registry.npmjs.org/antd
+9 silly mapToRegistry name babel-eslint
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry https://registry.npmjs.org/
+12 silly mapToRegistry data Result {
+12 silly mapToRegistry   raw: 'babel-eslint',
+12 silly mapToRegistry   scope: null,
+12 silly mapToRegistry   escapedName: 'babel-eslint',
+12 silly mapToRegistry   name: 'babel-eslint',
+12 silly mapToRegistry   rawSpec: '',
+12 silly mapToRegistry   spec: 'latest',
+12 silly mapToRegistry   type: 'tag' }
+13 silly mapToRegistry uri https://registry.npmjs.org/babel-eslint
+14 silly mapToRegistry name babel-runtime
+15 silly mapToRegistry using default registry
+16 silly mapToRegistry registry https://registry.npmjs.org/
+17 silly mapToRegistry data Result {
+17 silly mapToRegistry   raw: 'babel-runtime',
+17 silly mapToRegistry   scope: null,
+17 silly mapToRegistry   escapedName: 'babel-runtime',
+17 silly mapToRegistry   name: 'babel-runtime',
+17 silly mapToRegistry   rawSpec: '',
+17 silly mapToRegistry   spec: 'latest',
+17 silly mapToRegistry   type: 'tag' }
+18 silly mapToRegistry uri https://registry.npmjs.org/babel-runtime
+19 silly mapToRegistry name classnames
+20 silly mapToRegistry using default registry
+21 silly mapToRegistry registry https://registry.npmjs.org/
+22 silly mapToRegistry data Result {
+22 silly mapToRegistry   raw: 'classnames',
+22 silly mapToRegistry   scope: null,
+22 silly mapToRegistry   escapedName: 'classnames',
+22 silly mapToRegistry   name: 'classnames',
+22 silly mapToRegistry   rawSpec: '',
+22 silly mapToRegistry   spec: 'latest',
+22 silly mapToRegistry   type: 'tag' }
+23 silly mapToRegistry uri https://registry.npmjs.org/classnames
+24 silly mapToRegistry name eslint
+25 silly mapToRegistry using default registry
+26 silly mapToRegistry registry https://registry.npmjs.org/
+27 silly mapToRegistry data Result {
+27 silly mapToRegistry   raw: 'eslint',
+27 silly mapToRegistry   scope: null,
+27 silly mapToRegistry   escapedName: 'eslint',
+27 silly mapToRegistry   name: 'eslint',
+27 silly mapToRegistry   rawSpec: '',
+27 silly mapToRegistry   spec: 'latest',
+27 silly mapToRegistry   type: 'tag' }
+28 silly mapToRegistry uri https://registry.npmjs.org/eslint
+29 silly mapToRegistry name eslint-config-airbnb
+30 silly mapToRegistry using default registry
+31 silly mapToRegistry registry https://registry.npmjs.org/
+32 silly mapToRegistry data Result {
+32 silly mapToRegistry   raw: 'eslint-config-airbnb',
+32 silly mapToRegistry   scope: null,
+32 silly mapToRegistry   escapedName: 'eslint-config-airbnb',
+32 silly mapToRegistry   name: 'eslint-config-airbnb',
+32 silly mapToRegistry   rawSpec: '',
+32 silly mapToRegistry   spec: 'latest',
+32 silly mapToRegistry   type: 'tag' }
+33 silly mapToRegistry uri https://registry.npmjs.org/eslint-config-airbnb
+34 silly mapToRegistry name eslint-import-resolver-meteor
+35 silly mapToRegistry using default registry
+36 silly mapToRegistry registry https://registry.npmjs.org/
+37 silly mapToRegistry data Result {
+37 silly mapToRegistry   raw: 'eslint-import-resolver-meteor',
+37 silly mapToRegistry   scope: null,
+37 silly mapToRegistry   escapedName: 'eslint-import-resolver-meteor',
+37 silly mapToRegistry   name: 'eslint-import-resolver-meteor',
+37 silly mapToRegistry   rawSpec: '',
+37 silly mapToRegistry   spec: 'latest',
+37 silly mapToRegistry   type: 'tag' }
+38 silly mapToRegistry uri https://registry.npmjs.org/eslint-import-resolver-meteor
+39 silly mapToRegistry name eslint-plugin-import
+40 silly mapToRegistry using default registry
+41 silly mapToRegistry registry https://registry.npmjs.org/
+42 silly mapToRegistry data Result {
+42 silly mapToRegistry   raw: 'eslint-plugin-import',
+42 silly mapToRegistry   scope: null,
+42 silly mapToRegistry   escapedName: 'eslint-plugin-import',
+42 silly mapToRegistry   name: 'eslint-plugin-import',
+42 silly mapToRegistry   rawSpec: '',
+42 silly mapToRegistry   spec: 'latest',
+42 silly mapToRegistry   type: 'tag' }
+43 silly mapToRegistry uri https://registry.npmjs.org/eslint-plugin-import
+44 silly mapToRegistry name eslint-plugin-jsx-a11y
+45 silly mapToRegistry using default registry
+46 silly mapToRegistry registry https://registry.npmjs.org/
+47 silly mapToRegistry data Result {
+47 silly mapToRegistry   raw: 'eslint-plugin-jsx-a11y',
+47 silly mapToRegistry   scope: null,
+47 silly mapToRegistry   escapedName: 'eslint-plugin-jsx-a11y',
+47 silly mapToRegistry   name: 'eslint-plugin-jsx-a11y',
+47 silly mapToRegistry   rawSpec: '',
+47 silly mapToRegistry   spec: 'latest',
+47 silly mapToRegistry   type: 'tag' }
+48 silly mapToRegistry uri https://registry.npmjs.org/eslint-plugin-jsx-a11y
+49 silly mapToRegistry name eslint-plugin-meteor
+50 silly mapToRegistry using default registry
+51 silly mapToRegistry registry https://registry.npmjs.org/
+52 silly mapToRegistry data Result {
+52 silly mapToRegistry   raw: 'eslint-plugin-meteor',
+52 silly mapToRegistry   scope: null,
+52 silly mapToRegistry   escapedName: 'eslint-plugin-meteor',
+52 silly mapToRegistry   name: 'eslint-plugin-meteor',
+52 silly mapToRegistry   rawSpec: '',
+52 silly mapToRegistry   spec: 'latest',
+52 silly mapToRegistry   type: 'tag' }
+53 silly mapToRegistry uri https://registry.npmjs.org/eslint-plugin-meteor
+54 silly mapToRegistry name eslint-plugin-react
+55 silly mapToRegistry using default registry
+56 silly mapToRegistry registry https://registry.npmjs.org/
+57 silly mapToRegistry data Result {
+57 silly mapToRegistry   raw: 'eslint-plugin-react',
+57 silly mapToRegistry   scope: null,
+57 silly mapToRegistry   escapedName: 'eslint-plugin-react',
+57 silly mapToRegistry   name: 'eslint-plugin-react',
+57 silly mapToRegistry   rawSpec: '',
+57 silly mapToRegistry   spec: 'latest',
+57 silly mapToRegistry   type: 'tag' }
+58 silly mapToRegistry uri https://registry.npmjs.org/eslint-plugin-react
+59 silly mapToRegistry name geoip-lite
+60 silly mapToRegistry using default registry
+61 silly mapToRegistry registry https://registry.npmjs.org/
+62 silly mapToRegistry data Result {
+62 silly mapToRegistry   raw: 'geoip-lite',
+62 silly mapToRegistry   scope: null,
+62 silly mapToRegistry   escapedName: 'geoip-lite',
+62 silly mapToRegistry   name: 'geoip-lite',
+62 silly mapToRegistry   rawSpec: '',
+62 silly mapToRegistry   spec: 'latest',
+62 silly mapToRegistry   type: 'tag' }
+63 silly mapToRegistry uri https://registry.npmjs.org/geoip-lite
+64 silly mapToRegistry name gridle
+65 silly mapToRegistry using default registry
+66 silly mapToRegistry registry https://registry.npmjs.org/
+67 silly mapToRegistry data Result {
+67 silly mapToRegistry   raw: 'gridle',
+67 silly mapToRegistry   scope: null,
+67 silly mapToRegistry   escapedName: 'gridle',
+67 silly mapToRegistry   name: 'gridle',
+67 silly mapToRegistry   rawSpec: '',
+67 silly mapToRegistry   spec: 'latest',
+67 silly mapToRegistry   type: 'tag' }
+68 silly mapToRegistry uri https://registry.npmjs.org/gridle
+69 silly mapToRegistry name gsap
+70 silly mapToRegistry using default registry
+71 silly mapToRegistry registry https://registry.npmjs.org/
+72 silly mapToRegistry data Result {
+72 silly mapToRegistry   raw: 'gsap',
+72 silly mapToRegistry   scope: null,
+72 silly mapToRegistry   escapedName: 'gsap',
+72 silly mapToRegistry   name: 'gsap',
+72 silly mapToRegistry   rawSpec: '',
+72 silly mapToRegistry   spec: 'latest',
+72 silly mapToRegistry   type: 'tag' }
+73 silly mapToRegistry uri https://registry.npmjs.org/gsap
+74 silly mapToRegistry name indexof
+75 silly mapToRegistry using default registry
+76 silly mapToRegistry registry https://registry.npmjs.org/
+77 silly mapToRegistry data Result {
+77 silly mapToRegistry   raw: 'indexof',
+77 silly mapToRegistry   scope: null,
+77 silly mapToRegistry   escapedName: 'indexof',
+77 silly mapToRegistry   name: 'indexof',
+77 silly mapToRegistry   rawSpec: '',
+77 silly mapToRegistry   spec: 'latest',
+77 silly mapToRegistry   type: 'tag' }
+78 silly mapToRegistry uri https://registry.npmjs.org/indexof
+79 silly mapToRegistry name meteor-node-stubs
+80 silly mapToRegistry using default registry
+81 silly mapToRegistry registry https://registry.npmjs.org/
+82 silly mapToRegistry data Result {
+82 silly mapToRegistry   raw: 'meteor-node-stubs',
+82 silly mapToRegistry   scope: null,
+82 silly mapToRegistry   escapedName: 'meteor-node-stubs',
+82 silly mapToRegistry   name: 'meteor-node-stubs',
+82 silly mapToRegistry   rawSpec: '',
+82 silly mapToRegistry   spec: 'latest',
+82 silly mapToRegistry   type: 'tag' }
+83 silly mapToRegistry uri https://registry.npmjs.org/meteor-node-stubs
+84 silly mapToRegistry name react
+85 silly mapToRegistry using default registry
+86 silly mapToRegistry registry https://registry.npmjs.org/
+87 silly mapToRegistry data Result {
+87 silly mapToRegistry   raw: 'react',
+87 silly mapToRegistry   scope: null,
+87 silly mapToRegistry   escapedName: 'react',
+87 silly mapToRegistry   name: 'react',
+87 silly mapToRegistry   rawSpec: '',
+87 silly mapToRegistry   spec: 'latest',
+87 silly mapToRegistry   type: 'tag' }
+88 silly mapToRegistry uri https://registry.npmjs.org/react
+89 silly mapToRegistry name react-addons-pure-render-mixin
+90 silly mapToRegistry using default registry
+91 silly mapToRegistry registry https://registry.npmjs.org/
+92 silly mapToRegistry data Result {
+92 silly mapToRegistry   raw: 'react-addons-pure-render-mixin',
+92 silly mapToRegistry   scope: null,
+92 silly mapToRegistry   escapedName: 'react-addons-pure-render-mixin',
+92 silly mapToRegistry   name: 'react-addons-pure-render-mixin',
+92 silly mapToRegistry   rawSpec: '',
+92 silly mapToRegistry   spec: 'latest',
+92 silly mapToRegistry   type: 'tag' }
+93 silly mapToRegistry uri https://registry.npmjs.org/react-addons-pure-render-mixin
+94 silly mapToRegistry name react-d3-basic
+95 silly mapToRegistry using default registry
+96 silly mapToRegistry registry https://registry.npmjs.org/
+97 silly mapToRegistry data Result {
+97 silly mapToRegistry   raw: 'react-d3-basic',
+97 silly mapToRegistry   scope: null,
+97 silly mapToRegistry   escapedName: 'react-d3-basic',
+97 silly mapToRegistry   name: 'react-d3-basic',
+97 silly mapToRegistry   rawSpec: '',
+97 silly mapToRegistry   spec: 'latest',
+97 silly mapToRegistry   type: 'tag' }
+98 silly mapToRegistry uri https://registry.npmjs.org/react-d3-basic
+99 silly mapToRegistry name react-dom
+100 silly mapToRegistry using default registry
+101 silly mapToRegistry registry https://registry.npmjs.org/
+102 silly mapToRegistry data Result {
+102 silly mapToRegistry   raw: 'react-dom',
+102 silly mapToRegistry   scope: null,
+102 silly mapToRegistry   escapedName: 'react-dom',
+102 silly mapToRegistry   name: 'react-dom',
+102 silly mapToRegistry   rawSpec: '',
+102 silly mapToRegistry   spec: 'latest',
+102 silly mapToRegistry   type: 'tag' }
+103 silly mapToRegistry uri https://registry.npmjs.org/react-dom
+104 silly mapToRegistry name react-redux
+105 silly mapToRegistry using default registry
+106 silly mapToRegistry registry https://registry.npmjs.org/
+107 silly mapToRegistry data Result {
+107 silly mapToRegistry   raw: 'react-redux',
+107 silly mapToRegistry   scope: null,
+107 silly mapToRegistry   escapedName: 'react-redux',
+107 silly mapToRegistry   name: 'react-redux',
+107 silly mapToRegistry   rawSpec: '',
+107 silly mapToRegistry   spec: 'latest',
+107 silly mapToRegistry   type: 'tag' }
+108 silly mapToRegistry uri https://registry.npmjs.org/react-redux
+109 silly mapToRegistry name react-router
+110 silly mapToRegistry using default registry
+111 silly mapToRegistry registry https://registry.npmjs.org/
+112 silly mapToRegistry data Result {
+112 silly mapToRegistry   raw: 'react-router',
+112 silly mapToRegistry   scope: null,
+112 silly mapToRegistry   escapedName: 'react-router',
+112 silly mapToRegistry   name: 'react-router',
+112 silly mapToRegistry   rawSpec: '',
+112 silly mapToRegistry   spec: 'latest',
+112 silly mapToRegistry   type: 'tag' }
+113 silly mapToRegistry uri https://registry.npmjs.org/react-router
+114 silly mapToRegistry name recharts
+115 silly mapToRegistry using default registry
+116 silly mapToRegistry registry https://registry.npmjs.org/
+117 silly mapToRegistry data Result {
+117 silly mapToRegistry   raw: 'recharts',
+117 silly mapToRegistry   scope: null,
+117 silly mapToRegistry   escapedName: 'recharts',
+117 silly mapToRegistry   name: 'recharts',
+117 silly mapToRegistry   rawSpec: '',
+117 silly mapToRegistry   spec: 'latest',
+117 silly mapToRegistry   type: 'tag' }
+118 silly mapToRegistry uri https://registry.npmjs.org/recharts
+119 silly mapToRegistry name redux
+120 silly mapToRegistry using default registry
+121 silly mapToRegistry registry https://registry.npmjs.org/
+122 silly mapToRegistry data Result {
+122 silly mapToRegistry   raw: 'redux',
+122 silly mapToRegistry   scope: null,
+122 silly mapToRegistry   escapedName: 'redux',
+122 silly mapToRegistry   name: 'redux',
+122 silly mapToRegistry   rawSpec: '',
+122 silly mapToRegistry   spec: 'latest',
+122 silly mapToRegistry   type: 'tag' }
+123 silly mapToRegistry uri https://registry.npmjs.org/redux
+124 silly mapToRegistry name bcrypt
+125 silly mapToRegistry using default registry
+126 silly mapToRegistry registry https://registry.npmjs.org/
+127 silly mapToRegistry data Result {
+127 silly mapToRegistry   raw: 'bcrypt',
+127 silly mapToRegistry   scope: null,
+127 silly mapToRegistry   escapedName: 'bcrypt',
+127 silly mapToRegistry   name: 'bcrypt',
+127 silly mapToRegistry   rawSpec: '',
+127 silly mapToRegistry   spec: 'latest',
+127 silly mapToRegistry   type: 'tag' }
+128 silly mapToRegistry uri https://registry.npmjs.org/bcrypt
+129 verbose request uri https://registry.npmjs.org/babel-eslint
+130 verbose request no auth needed
+131 info attempt registry request try #1 at 12:51:21 PM
+132 verbose request id 596e10c854c6f44d
+133 verbose etag W/"59cab62b-29091"
+134 verbose lastModified Tue, 26 Sep 2017 20:18:51 GMT
+135 http request GET https://registry.npmjs.org/babel-eslint
+136 verbose request uri https://registry.npmjs.org/antd
+137 verbose request no auth needed
+138 info attempt registry request try #1 at 12:51:21 PM
+139 verbose etag W/"59ce6ca1-1398d8"
+140 verbose lastModified Fri, 29 Sep 2017 15:54:09 GMT
+141 http request GET https://registry.npmjs.org/antd
+142 verbose request uri https://registry.npmjs.org/eslint
+143 verbose request no auth needed
+144 info attempt registry request try #1 at 12:51:21 PM
+145 verbose etag W/"59d3848f-7e565"
+146 verbose lastModified Tue, 03 Oct 2017 12:37:35 GMT
+147 http request GET https://registry.npmjs.org/eslint
+148 verbose request uri https://registry.npmjs.org/babel-runtime
+149 verbose request no auth needed
+150 info attempt registry request try #1 at 12:51:21 PM
+151 verbose etag W/"59d4505c-2b3c1"
+152 verbose lastModified Wed, 04 Oct 2017 03:07:08 GMT
+153 http request GET https://registry.npmjs.org/babel-runtime
+154 verbose request uri https://registry.npmjs.org/classnames
+155 verbose request no auth needed
+156 info attempt registry request try #1 at 12:51:21 PM
+157 verbose etag W/"59d5257e-853c"
+158 verbose lastModified Wed, 04 Oct 2017 18:16:30 GMT
+159 http request GET https://registry.npmjs.org/classnames
+160 verbose request uri https://registry.npmjs.org/eslint-plugin-import
+161 verbose request no auth needed
+162 info attempt registry request try #1 at 12:51:21 PM
+163 verbose etag W/"59c17b70-30de8"
+164 verbose lastModified Tue, 19 Sep 2017 20:17:52 GMT
+165 http request GET https://registry.npmjs.org/eslint-plugin-import
+166 verbose request uri https://registry.npmjs.org/eslint-plugin-meteor
+167 verbose request no auth needed
+168 info attempt registry request try #1 at 12:51:21 PM
+169 verbose etag W/"5996d847-23c9b"
+170 verbose lastModified Fri, 18 Aug 2017 12:06:31 GMT
+171 http request GET https://registry.npmjs.org/eslint-plugin-meteor
+172 verbose request uri https://registry.npmjs.org/eslint-plugin-jsx-a11y
+173 verbose request no auth needed
+174 info attempt registry request try #1 at 12:51:21 PM
+175 verbose etag W/"59c97e7b-24d3f"
+176 verbose lastModified Mon, 25 Sep 2017 22:08:59 GMT
+177 http request GET https://registry.npmjs.org/eslint-plugin-jsx-a11y
+178 verbose request uri https://registry.npmjs.org/eslint-import-resolver-meteor
+179 verbose request no auth needed
+180 info attempt registry request try #1 at 12:51:21 PM
+181 verbose etag W/"58e3ee3f-8d60"
+182 verbose lastModified Tue, 04 Apr 2017 19:04:31 GMT
+183 http request GET https://registry.npmjs.org/eslint-import-resolver-meteor
+184 verbose request uri https://registry.npmjs.org/gsap
+185 verbose request no auth needed
+186 info attempt registry request try #1 at 12:51:21 PM
+187 verbose etag W/"59d3313d-a15e"
+188 verbose lastModified Tue, 03 Oct 2017 06:42:05 GMT
+189 http request GET https://registry.npmjs.org/gsap
+190 verbose request uri https://registry.npmjs.org/indexof
+191 verbose request no auth needed
+192 info attempt registry request try #1 at 12:51:21 PM
+193 verbose etag W/"54e089c8-423"
+194 verbose lastModified Sun, 15 Feb 2015 11:58:00 GMT
+195 http request GET https://registry.npmjs.org/indexof
+196 verbose request uri https://registry.npmjs.org/geoip-lite
+197 verbose request no auth needed
+198 info attempt registry request try #1 at 12:51:21 PM
+199 verbose etag W/"59bcb55e-9c03"
+200 verbose lastModified Sat, 16 Sep 2017 05:23:42 GMT
+201 http request GET https://registry.npmjs.org/geoip-lite
+202 verbose request uri https://registry.npmjs.org/eslint-config-airbnb
+203 verbose request no auth needed
+204 info attempt registry request try #1 at 12:51:21 PM
+205 verbose etag W/"59d344a6-15976"
+206 verbose lastModified Tue, 03 Oct 2017 08:04:54 GMT
+207 http request GET https://registry.npmjs.org/eslint-config-airbnb
+208 verbose request uri https://registry.npmjs.org/eslint-plugin-react
+209 verbose request no auth needed
+210 info attempt registry request try #1 at 12:51:21 PM
+211 verbose etag W/"59d14a12-315f1"
+212 verbose lastModified Sun, 01 Oct 2017 20:03:30 GMT
+213 http request GET https://registry.npmjs.org/eslint-plugin-react
+214 verbose request uri https://registry.npmjs.org/meteor-node-stubs
+215 verbose request no auth needed
+216 info attempt registry request try #1 at 12:51:21 PM
+217 verbose etag W/"5931ceb4-7133"
+218 verbose lastModified Fri, 02 Jun 2017 20:46:44 GMT
+219 http request GET https://registry.npmjs.org/meteor-node-stubs
+220 verbose request uri https://registry.npmjs.org/react-dom
+221 verbose request no auth needed
+222 info attempt registry request try #1 at 12:51:21 PM
+223 verbose etag W/"59d47837-1ed39"
+224 verbose lastModified Wed, 04 Oct 2017 05:57:11 GMT
+225 http request GET https://registry.npmjs.org/react-dom
+226 verbose request uri https://registry.npmjs.org/react-addons-pure-render-mixin
+227 verbose request no auth needed
+228 info attempt registry request try #1 at 12:51:21 PM
+229 verbose etag W/"59c99d6d-176bc"
+230 verbose lastModified Tue, 26 Sep 2017 00:21:01 GMT
+231 http request GET https://registry.npmjs.org/react-addons-pure-render-mixin
+232 verbose request uri https://registry.npmjs.org/react-d3-basic
+233 verbose request no auth needed
+234 info attempt registry request try #1 at 12:51:21 PM
+235 verbose etag W/"59d41de2-1a632"
+236 verbose lastModified Tue, 03 Oct 2017 23:31:46 GMT
+237 http request GET https://registry.npmjs.org/react-d3-basic
+238 verbose request uri https://registry.npmjs.org/react-router
+239 verbose request no auth needed
+240 info attempt registry request try #1 at 12:51:21 PM
+241 verbose etag W/"59d145c6-443d2"
+242 verbose lastModified Sun, 01 Oct 2017 19:45:10 GMT
+243 http request GET https://registry.npmjs.org/react-router
+244 verbose request uri https://registry.npmjs.org/react
+245 verbose request no auth needed
+246 info attempt registry request try #1 at 12:51:21 PM
+247 verbose etag W/"59d4782b-303ce"
+248 verbose lastModified Wed, 04 Oct 2017 05:56:59 GMT
+249 http request GET https://registry.npmjs.org/react
+250 verbose request uri https://registry.npmjs.org/gridle
+251 verbose request no auth needed
+252 info attempt registry request try #1 at 12:51:21 PM
+253 verbose etag W/"5770f743-6341"
+254 verbose lastModified Mon, 27 Jun 2016 09:52:03 GMT
+255 http request GET https://registry.npmjs.org/gridle
+256 verbose request uri https://registry.npmjs.org/react-redux
+257 verbose request no auth needed
+258 info attempt registry request try #1 at 12:51:21 PM
+259 verbose etag W/"59d2b88b-2ec18"
+260 verbose lastModified Mon, 02 Oct 2017 22:07:07 GMT
+261 http request GET https://registry.npmjs.org/react-redux
+262 verbose request uri https://registry.npmjs.org/recharts
+263 verbose request no auth needed
+264 info attempt registry request try #1 at 12:51:21 PM
+265 verbose etag W/"59c1bde2-5c48e"
+266 verbose lastModified Wed, 20 Sep 2017 01:01:22 GMT
+267 http request GET https://registry.npmjs.org/recharts
+268 verbose request uri https://registry.npmjs.org/redux
+269 verbose request no auth needed
+270 info attempt registry request try #1 at 12:51:21 PM
+271 verbose etag W/"59d31cb8-29003"
+272 verbose lastModified Tue, 03 Oct 2017 05:14:32 GMT
+273 http request GET https://registry.npmjs.org/redux
+274 verbose request uri https://registry.npmjs.org/bcrypt
+275 verbose request no auth needed
+276 info attempt registry request try #1 at 12:51:21 PM
+277 verbose etag W/"59d26904-17f95"
+278 verbose lastModified Mon, 02 Oct 2017 16:27:48 GMT
+279 http request GET https://registry.npmjs.org/bcrypt
+280 http 304 https://registry.npmjs.org/eslint-plugin-import
+281 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+281 verbose headers   via: '1.1 varnish',
+281 verbose headers   'cache-control': 'max-age=300',
+281 verbose headers   etag: 'W/"59c17b70-30de8"',
+281 verbose headers   age: '196',
+281 verbose headers   connection: 'keep-alive',
+281 verbose headers   'x-served-by': 'cache-cdg8735-CDG',
+281 verbose headers   'x-cache': 'HIT',
+281 verbose headers   'x-cache-hits': '1',
+281 verbose headers   'x-timer': 'S1507146683.939618,VS0,VE1',
+281 verbose headers   vary: 'Accept-Encoding, Accept' }
+282 silly get cb [ 304,
+282 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+282 silly get     via: '1.1 varnish',
+282 silly get     'cache-control': 'max-age=300',
+282 silly get     etag: 'W/"59c17b70-30de8"',
+282 silly get     age: '196',
+282 silly get     connection: 'keep-alive',
+282 silly get     'x-served-by': 'cache-cdg8735-CDG',
+282 silly get     'x-cache': 'HIT',
+282 silly get     'x-cache-hits': '1',
+282 silly get     'x-timer': 'S1507146683.939618,VS0,VE1',
+282 silly get     vary: 'Accept-Encoding, Accept' } ]
+283 verbose etag https://registry.npmjs.org/eslint-plugin-import from cache
+284 verbose get saving eslint-plugin-import to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint-plugin-import\.cache.json
+285 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+286 http 304 https://registry.npmjs.org/eslint
+287 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+287 verbose headers   via: '1.1 varnish',
+287 verbose headers   'cache-control': 'max-age=300',
+287 verbose headers   etag: 'W/"59d3848f-7e565"',
+287 verbose headers   age: '25',
+287 verbose headers   connection: 'keep-alive',
+287 verbose headers   'x-served-by': 'cache-cdg8732-CDG',
+287 verbose headers   'x-cache': 'HIT',
+287 verbose headers   'x-cache-hits': '2',
+287 verbose headers   'x-timer': 'S1507146683.942373,VS0,VE0',
+287 verbose headers   vary: 'Accept-Encoding, Accept' }
+288 silly get cb [ 304,
+288 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+288 silly get     via: '1.1 varnish',
+288 silly get     'cache-control': 'max-age=300',
+288 silly get     etag: 'W/"59d3848f-7e565"',
+288 silly get     age: '25',
+288 silly get     connection: 'keep-alive',
+288 silly get     'x-served-by': 'cache-cdg8732-CDG',
+288 silly get     'x-cache': 'HIT',
+288 silly get     'x-cache-hits': '2',
+288 silly get     'x-timer': 'S1507146683.942373,VS0,VE0',
+288 silly get     vary: 'Accept-Encoding, Accept' } ]
+289 verbose etag https://registry.npmjs.org/eslint from cache
+290 verbose get saving eslint to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint\.cache.json
+291 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+292 http 304 https://registry.npmjs.org/babel-runtime
+293 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+293 verbose headers   via: '1.1 varnish',
+293 verbose headers   'cache-control': 'max-age=300',
+293 verbose headers   etag: 'W/"59d4505c-2b3c1"',
+293 verbose headers   age: '59',
+293 verbose headers   connection: 'keep-alive',
+293 verbose headers   'x-served-by': 'cache-cdg8724-CDG',
+293 verbose headers   'x-cache': 'HIT',
+293 verbose headers   'x-cache-hits': '1',
+293 verbose headers   'x-timer': 'S1507146683.946585,VS0,VE1',
+293 verbose headers   vary: 'Accept-Encoding, Accept' }
+294 silly get cb [ 304,
+294 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+294 silly get     via: '1.1 varnish',
+294 silly get     'cache-control': 'max-age=300',
+294 silly get     etag: 'W/"59d4505c-2b3c1"',
+294 silly get     age: '59',
+294 silly get     connection: 'keep-alive',
+294 silly get     'x-served-by': 'cache-cdg8724-CDG',
+294 silly get     'x-cache': 'HIT',
+294 silly get     'x-cache-hits': '1',
+294 silly get     'x-timer': 'S1507146683.946585,VS0,VE1',
+294 silly get     vary: 'Accept-Encoding, Accept' } ]
+295 verbose etag https://registry.npmjs.org/babel-runtime from cache
+296 verbose get saving babel-runtime to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\babel-runtime\.cache.json
+297 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+298 http 304 https://registry.npmjs.org/eslint-config-airbnb
+299 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+299 verbose headers   via: '1.1 varnish',
+299 verbose headers   'cache-control': 'max-age=300',
+299 verbose headers   etag: 'W/"59d344a6-15976"',
+299 verbose headers   age: '196',
+299 verbose headers   connection: 'keep-alive',
+299 verbose headers   'x-served-by': 'cache-cdg8722-CDG',
+299 verbose headers   'x-cache': 'HIT',
+299 verbose headers   'x-cache-hits': '1',
+299 verbose headers   'x-timer': 'S1507146683.956379,VS0,VE1',
+299 verbose headers   vary: 'Accept-Encoding, Accept' }
+300 silly get cb [ 304,
+300 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+300 silly get     via: '1.1 varnish',
+300 silly get     'cache-control': 'max-age=300',
+300 silly get     etag: 'W/"59d344a6-15976"',
+300 silly get     age: '196',
+300 silly get     connection: 'keep-alive',
+300 silly get     'x-served-by': 'cache-cdg8722-CDG',
+300 silly get     'x-cache': 'HIT',
+300 silly get     'x-cache-hits': '1',
+300 silly get     'x-timer': 'S1507146683.956379,VS0,VE1',
+300 silly get     vary: 'Accept-Encoding, Accept' } ]
+301 verbose etag https://registry.npmjs.org/eslint-config-airbnb from cache
+302 verbose get saving eslint-config-airbnb to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint-config-airbnb\.cache.json
+303 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+304 http 304 https://registry.npmjs.org/eslint-plugin-react
+305 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+305 verbose headers   via: '1.1 varnish',
+305 verbose headers   'cache-control': 'max-age=300',
+305 verbose headers   etag: 'W/"59d14a12-315f1"',
+305 verbose headers   age: '196',
+305 verbose headers   connection: 'keep-alive',
+305 verbose headers   'x-served-by': 'cache-cdg8734-CDG',
+305 verbose headers   'x-cache': 'HIT',
+305 verbose headers   'x-cache-hits': '2',
+305 verbose headers   'x-timer': 'S1507146683.962106,VS0,VE0',
+305 verbose headers   vary: 'Accept-Encoding, Accept' }
+306 silly get cb [ 304,
+306 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+306 silly get     via: '1.1 varnish',
+306 silly get     'cache-control': 'max-age=300',
+306 silly get     etag: 'W/"59d14a12-315f1"',
+306 silly get     age: '196',
+306 silly get     connection: 'keep-alive',
+306 silly get     'x-served-by': 'cache-cdg8734-CDG',
+306 silly get     'x-cache': 'HIT',
+306 silly get     'x-cache-hits': '2',
+306 silly get     'x-timer': 'S1507146683.962106,VS0,VE0',
+306 silly get     vary: 'Accept-Encoding, Accept' } ]
+307 verbose etag https://registry.npmjs.org/eslint-plugin-react from cache
+308 verbose get saving eslint-plugin-react to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint-plugin-react\.cache.json
+309 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+310 http 304 https://registry.npmjs.org/antd
+311 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+311 verbose headers   via: '1.1 varnish',
+311 verbose headers   'cache-control': 'max-age=300',
+311 verbose headers   etag: 'W/"59ce6ca1-1398d8"',
+311 verbose headers   age: '0',
+311 verbose headers   connection: 'keep-alive',
+311 verbose headers   'x-served-by': 'cache-cdg8731-CDG',
+311 verbose headers   'x-cache': 'MISS',
+311 verbose headers   'x-cache-hits': '0',
+311 verbose headers   'x-timer': 'S1507146683.951772,VS0,VE16',
+311 verbose headers   vary: 'Accept-Encoding, Accept' }
+312 silly get cb [ 304,
+312 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+312 silly get     via: '1.1 varnish',
+312 silly get     'cache-control': 'max-age=300',
+312 silly get     etag: 'W/"59ce6ca1-1398d8"',
+312 silly get     age: '0',
+312 silly get     connection: 'keep-alive',
+312 silly get     'x-served-by': 'cache-cdg8731-CDG',
+312 silly get     'x-cache': 'MISS',
+312 silly get     'x-cache-hits': '0',
+312 silly get     'x-timer': 'S1507146683.951772,VS0,VE16',
+312 silly get     vary: 'Accept-Encoding, Accept' } ]
+313 verbose etag https://registry.npmjs.org/antd from cache
+314 verbose get saving antd to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\antd\.cache.json
+315 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+316 http 304 https://registry.npmjs.org/react-dom
+317 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+317 verbose headers   via: '1.1 varnish',
+317 verbose headers   'cache-control': 'max-age=300',
+317 verbose headers   etag: 'W/"59d47837-1ed39"',
+317 verbose headers   age: '58',
+317 verbose headers   connection: 'keep-alive',
+317 verbose headers   'x-served-by': 'cache-cdg8731-CDG',
+317 verbose headers   'x-cache': 'HIT',
+317 verbose headers   'x-cache-hits': '2',
+317 verbose headers   'x-timer': 'S1507146683.970176,VS0,VE0',
+317 verbose headers   vary: 'Accept-Encoding, Accept' }
+318 silly get cb [ 304,
+318 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+318 silly get     via: '1.1 varnish',
+318 silly get     'cache-control': 'max-age=300',
+318 silly get     etag: 'W/"59d47837-1ed39"',
+318 silly get     age: '58',
+318 silly get     connection: 'keep-alive',
+318 silly get     'x-served-by': 'cache-cdg8731-CDG',
+318 silly get     'x-cache': 'HIT',
+318 silly get     'x-cache-hits': '2',
+318 silly get     'x-timer': 'S1507146683.970176,VS0,VE0',
+318 silly get     vary: 'Accept-Encoding, Accept' } ]
+319 verbose etag https://registry.npmjs.org/react-dom from cache
+320 verbose get saving react-dom to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\react-dom\.cache.json
+321 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+322 http 304 https://registry.npmjs.org/react-router
+323 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+323 verbose headers   via: '1.1 varnish',
+323 verbose headers   'cache-control': 'max-age=300',
+323 verbose headers   etag: 'W/"59d145c6-443d2"',
+323 verbose headers   age: '196',
+323 verbose headers   connection: 'keep-alive',
+323 verbose headers   'x-served-by': 'cache-cdg8723-CDG',
+323 verbose headers   'x-cache': 'HIT',
+323 verbose headers   'x-cache-hits': '2',
+323 verbose headers   'x-timer': 'S1507146683.973871,VS0,VE0',
+323 verbose headers   vary: 'Accept-Encoding, Accept' }
+324 silly get cb [ 304,
+324 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+324 silly get     via: '1.1 varnish',
+324 silly get     'cache-control': 'max-age=300',
+324 silly get     etag: 'W/"59d145c6-443d2"',
+324 silly get     age: '196',
+324 silly get     connection: 'keep-alive',
+324 silly get     'x-served-by': 'cache-cdg8723-CDG',
+324 silly get     'x-cache': 'HIT',
+324 silly get     'x-cache-hits': '2',
+324 silly get     'x-timer': 'S1507146683.973871,VS0,VE0',
+324 silly get     vary: 'Accept-Encoding, Accept' } ]
+325 verbose etag https://registry.npmjs.org/react-router from cache
+326 verbose get saving react-router to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\react-router\.cache.json
+327 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+328 http 304 https://registry.npmjs.org/react
+329 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+329 verbose headers   via: '1.1 varnish',
+329 verbose headers   'cache-control': 'max-age=300',
+329 verbose headers   etag: 'W/"59d4782b-303ce"',
+329 verbose headers   age: '136',
+329 verbose headers   connection: 'keep-alive',
+329 verbose headers   'x-served-by': 'cache-cdg8726-CDG',
+329 verbose headers   'x-cache': 'HIT',
+329 verbose headers   'x-cache-hits': '4',
+329 verbose headers   'x-timer': 'S1507146683.979349,VS0,VE0',
+329 verbose headers   vary: 'Accept-Encoding, Accept' }
+330 silly get cb [ 304,
+330 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+330 silly get     via: '1.1 varnish',
+330 silly get     'cache-control': 'max-age=300',
+330 silly get     etag: 'W/"59d4782b-303ce"',
+330 silly get     age: '136',
+330 silly get     connection: 'keep-alive',
+330 silly get     'x-served-by': 'cache-cdg8726-CDG',
+330 silly get     'x-cache': 'HIT',
+330 silly get     'x-cache-hits': '4',
+330 silly get     'x-timer': 'S1507146683.979349,VS0,VE0',
+330 silly get     vary: 'Accept-Encoding, Accept' } ]
+331 verbose etag https://registry.npmjs.org/react from cache
+332 verbose get saving react to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\react\.cache.json
+333 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+334 http 304 https://registry.npmjs.org/react-redux
+335 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+335 verbose headers   via: '1.1 varnish',
+335 verbose headers   'cache-control': 'max-age=300',
+335 verbose headers   etag: 'W/"59d2b88b-2ec18"',
+335 verbose headers   age: '257',
+335 verbose headers   connection: 'keep-alive',
+335 verbose headers   'x-served-by': 'cache-cdg8735-CDG',
+335 verbose headers   'x-cache': 'HIT',
+335 verbose headers   'x-cache-hits': '1',
+335 verbose headers   'x-timer': 'S1507146683.979790,VS0,VE0',
+335 verbose headers   vary: 'Accept-Encoding, Accept' }
+336 silly get cb [ 304,
+336 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+336 silly get     via: '1.1 varnish',
+336 silly get     'cache-control': 'max-age=300',
+336 silly get     etag: 'W/"59d2b88b-2ec18"',
+336 silly get     age: '257',
+336 silly get     connection: 'keep-alive',
+336 silly get     'x-served-by': 'cache-cdg8735-CDG',
+336 silly get     'x-cache': 'HIT',
+336 silly get     'x-cache-hits': '1',
+336 silly get     'x-timer': 'S1507146683.979790,VS0,VE0',
+336 silly get     vary: 'Accept-Encoding, Accept' } ]
+337 verbose etag https://registry.npmjs.org/react-redux from cache
+338 verbose get saving react-redux to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\react-redux\.cache.json
+339 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+340 http 304 https://registry.npmjs.org/geoip-lite
+341 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+341 verbose headers   via: '1.1 varnish',
+341 verbose headers   'cache-control': 'max-age=300',
+341 verbose headers   etag: 'W/"59bcb55e-9c03"',
+341 verbose headers   age: '0',
+341 verbose headers   connection: 'keep-alive',
+341 verbose headers   'x-served-by': 'cache-cdg8726-CDG',
+341 verbose headers   'x-cache': 'HIT',
+341 verbose headers   'x-cache-hits': '1',
+341 verbose headers   'x-timer': 'S1507146683.970625,VS0,VE15',
+341 verbose headers   vary: 'Accept-Encoding, Accept' }
+342 silly get cb [ 304,
+342 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+342 silly get     via: '1.1 varnish',
+342 silly get     'cache-control': 'max-age=300',
+342 silly get     etag: 'W/"59bcb55e-9c03"',
+342 silly get     age: '0',
+342 silly get     connection: 'keep-alive',
+342 silly get     'x-served-by': 'cache-cdg8726-CDG',
+342 silly get     'x-cache': 'HIT',
+342 silly get     'x-cache-hits': '1',
+342 silly get     'x-timer': 'S1507146683.970625,VS0,VE15',
+342 silly get     vary: 'Accept-Encoding, Accept' } ]
+343 verbose etag https://registry.npmjs.org/geoip-lite from cache
+344 verbose get saving geoip-lite to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\geoip-lite\.cache.json
+345 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+346 http 304 https://registry.npmjs.org/redux
+347 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+347 verbose headers   via: '1.1 varnish',
+347 verbose headers   'cache-control': 'max-age=300',
+347 verbose headers   etag: 'W/"59d31cb8-29003"',
+347 verbose headers   age: '284',
+347 verbose headers   connection: 'keep-alive',
+347 verbose headers   'x-served-by': 'cache-cdg8721-CDG',
+347 verbose headers   'x-cache': 'HIT',
+347 verbose headers   'x-cache-hits': '1',
+347 verbose headers   'x-timer': 'S1507146683.985348,VS0,VE1',
+347 verbose headers   vary: 'Accept-Encoding, Accept' }
+348 silly get cb [ 304,
+348 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+348 silly get     via: '1.1 varnish',
+348 silly get     'cache-control': 'max-age=300',
+348 silly get     etag: 'W/"59d31cb8-29003"',
+348 silly get     age: '284',
+348 silly get     connection: 'keep-alive',
+348 silly get     'x-served-by': 'cache-cdg8721-CDG',
+348 silly get     'x-cache': 'HIT',
+348 silly get     'x-cache-hits': '1',
+348 silly get     'x-timer': 'S1507146683.985348,VS0,VE1',
+348 silly get     vary: 'Accept-Encoding, Accept' } ]
+349 verbose etag https://registry.npmjs.org/redux from cache
+350 verbose get saving redux to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\redux\.cache.json
+351 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+352 http 304 https://registry.npmjs.org/bcrypt
+353 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+353 verbose headers   via: '1.1 varnish',
+353 verbose headers   'cache-control': 'max-age=300',
+353 verbose headers   etag: 'W/"59d26904-17f95"',
+353 verbose headers   age: '183',
+353 verbose headers   connection: 'keep-alive',
+353 verbose headers   'x-served-by': 'cache-cdg8734-CDG',
+353 verbose headers   'x-cache': 'HIT',
+353 verbose headers   'x-cache-hits': '1',
+353 verbose headers   'x-timer': 'S1507146683.983371,VS0,VE1',
+353 verbose headers   vary: 'Accept-Encoding, Accept' }
+354 silly get cb [ 304,
+354 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+354 silly get     via: '1.1 varnish',
+354 silly get     'cache-control': 'max-age=300',
+354 silly get     etag: 'W/"59d26904-17f95"',
+354 silly get     age: '183',
+354 silly get     connection: 'keep-alive',
+354 silly get     'x-served-by': 'cache-cdg8734-CDG',
+354 silly get     'x-cache': 'HIT',
+354 silly get     'x-cache-hits': '1',
+354 silly get     'x-timer': 'S1507146683.983371,VS0,VE1',
+354 silly get     vary: 'Accept-Encoding, Accept' } ]
+355 verbose etag https://registry.npmjs.org/bcrypt from cache
+356 verbose get saving bcrypt to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\bcrypt\.cache.json
+357 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+358 http 304 https://registry.npmjs.org/react-addons-pure-render-mixin
+359 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+359 verbose headers   via: '1.1 varnish',
+359 verbose headers   'cache-control': 'max-age=300',
+359 verbose headers   etag: 'W/"59c99d6d-176bc"',
+359 verbose headers   age: '0',
+359 verbose headers   connection: 'keep-alive',
+359 verbose headers   'x-served-by': 'cache-cdg8724-CDG',
+359 verbose headers   'x-cache': 'MISS',
+359 verbose headers   'x-cache-hits': '0',
+359 verbose headers   'x-timer': 'S1507146683.970777,VS0,VE16',
+359 verbose headers   vary: 'Accept-Encoding, Accept' }
+360 silly get cb [ 304,
+360 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+360 silly get     via: '1.1 varnish',
+360 silly get     'cache-control': 'max-age=300',
+360 silly get     etag: 'W/"59c99d6d-176bc"',
+360 silly get     age: '0',
+360 silly get     connection: 'keep-alive',
+360 silly get     'x-served-by': 'cache-cdg8724-CDG',
+360 silly get     'x-cache': 'MISS',
+360 silly get     'x-cache-hits': '0',
+360 silly get     'x-timer': 'S1507146683.970777,VS0,VE16',
+360 silly get     vary: 'Accept-Encoding, Accept' } ]
+361 verbose etag https://registry.npmjs.org/react-addons-pure-render-mixin from cache
+362 verbose get saving react-addons-pure-render-mixin to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\react-addons-pure-render-mixin\.cache.json
+363 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+364 http 304 https://registry.npmjs.org/gsap
+365 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+365 verbose headers   via: '1.1 varnish',
+365 verbose headers   'cache-control': 'max-age=300',
+365 verbose headers   etag: 'W/"59d3313d-a15e"',
+365 verbose headers   age: '0',
+365 verbose headers   connection: 'keep-alive',
+365 verbose headers   'x-served-by': 'cache-cdg8731-CDG',
+365 verbose headers   'x-cache': 'HIT',
+365 verbose headers   'x-cache-hits': '1',
+365 verbose headers   'x-timer': 'S1507146683.977226,VS0,VE15',
+365 verbose headers   vary: 'Accept-Encoding, Accept' }
+366 silly get cb [ 304,
+366 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+366 silly get     via: '1.1 varnish',
+366 silly get     'cache-control': 'max-age=300',
+366 silly get     etag: 'W/"59d3313d-a15e"',
+366 silly get     age: '0',
+366 silly get     connection: 'keep-alive',
+366 silly get     'x-served-by': 'cache-cdg8731-CDG',
+366 silly get     'x-cache': 'HIT',
+366 silly get     'x-cache-hits': '1',
+366 silly get     'x-timer': 'S1507146683.977226,VS0,VE15',
+366 silly get     vary: 'Accept-Encoding, Accept' } ]
+367 verbose etag https://registry.npmjs.org/gsap from cache
+368 verbose get saving gsap to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\gsap\.cache.json
+369 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+370 http 304 https://registry.npmjs.org/react-d3-basic
+371 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+371 verbose headers   via: '1.1 varnish',
+371 verbose headers   'cache-control': 'max-age=300',
+371 verbose headers   etag: 'W/"59d41de2-1a632"',
+371 verbose headers   age: '0',
+371 verbose headers   connection: 'keep-alive',
+371 verbose headers   'x-served-by': 'cache-cdg8732-CDG',
+371 verbose headers   'x-cache': 'MISS',
+371 verbose headers   'x-cache-hits': '0',
+371 verbose headers   'x-timer': 'S1507146683.974207,VS0,VE20',
+371 verbose headers   vary: 'Accept-Encoding, Accept' }
+372 silly get cb [ 304,
+372 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+372 silly get     via: '1.1 varnish',
+372 silly get     'cache-control': 'max-age=300',
+372 silly get     etag: 'W/"59d41de2-1a632"',
+372 silly get     age: '0',
+372 silly get     connection: 'keep-alive',
+372 silly get     'x-served-by': 'cache-cdg8732-CDG',
+372 silly get     'x-cache': 'MISS',
+372 silly get     'x-cache-hits': '0',
+372 silly get     'x-timer': 'S1507146683.974207,VS0,VE20',
+372 silly get     vary: 'Accept-Encoding, Accept' } ]
+373 verbose etag https://registry.npmjs.org/react-d3-basic from cache
+374 verbose get saving react-d3-basic to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\react-d3-basic\.cache.json
+375 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+376 http 304 https://registry.npmjs.org/gridle
+377 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+377 verbose headers   via: '1.1 varnish',
+377 verbose headers   'cache-control': 'max-age=300',
+377 verbose headers   etag: 'W/"5770f743-6341"',
+377 verbose headers   age: '0',
+377 verbose headers   connection: 'keep-alive',
+377 verbose headers   'x-served-by': 'cache-cdg8727-CDG',
+377 verbose headers   'x-cache': 'MISS',
+377 verbose headers   'x-cache-hits': '0',
+377 verbose headers   'x-timer': 'S1507146683.977583,VS0,VE19',
+377 verbose headers   vary: 'Accept-Encoding, Accept' }
+378 silly get cb [ 304,
+378 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+378 silly get     via: '1.1 varnish',
+378 silly get     'cache-control': 'max-age=300',
+378 silly get     etag: 'W/"5770f743-6341"',
+378 silly get     age: '0',
+378 silly get     connection: 'keep-alive',
+378 silly get     'x-served-by': 'cache-cdg8727-CDG',
+378 silly get     'x-cache': 'MISS',
+378 silly get     'x-cache-hits': '0',
+378 silly get     'x-timer': 'S1507146683.977583,VS0,VE19',
+378 silly get     vary: 'Accept-Encoding, Accept' } ]
+379 verbose etag https://registry.npmjs.org/gridle from cache
+380 verbose get saving gridle to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\gridle\.cache.json
+381 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+382 http 304 https://registry.npmjs.org/recharts
+383 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+383 verbose headers   via: '1.1 varnish',
+383 verbose headers   'cache-control': 'max-age=300',
+383 verbose headers   etag: 'W/"59c1bde2-5c48e"',
+383 verbose headers   age: '0',
+383 verbose headers   connection: 'keep-alive',
+383 verbose headers   'x-served-by': 'cache-cdg8720-CDG',
+383 verbose headers   'x-cache': 'HIT',
+383 verbose headers   'x-cache-hits': '1',
+383 verbose headers   'x-timer': 'S1507146683.989656,VS0,VE15',
+383 verbose headers   vary: 'Accept-Encoding, Accept' }
+384 silly get cb [ 304,
+384 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+384 silly get     via: '1.1 varnish',
+384 silly get     'cache-control': 'max-age=300',
+384 silly get     etag: 'W/"59c1bde2-5c48e"',
+384 silly get     age: '0',
+384 silly get     connection: 'keep-alive',
+384 silly get     'x-served-by': 'cache-cdg8720-CDG',
+384 silly get     'x-cache': 'HIT',
+384 silly get     'x-cache-hits': '1',
+384 silly get     'x-timer': 'S1507146683.989656,VS0,VE15',
+384 silly get     vary: 'Accept-Encoding, Accept' } ]
+385 verbose etag https://registry.npmjs.org/recharts from cache
+386 verbose get saving recharts to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\recharts\.cache.json
+387 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+388 http 304 https://registry.npmjs.org/eslint-plugin-meteor
+389 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+389 verbose headers   via: '1.1 varnish',
+389 verbose headers   'cache-control': 'max-age=300',
+389 verbose headers   etag: 'W/"5996d847-23c9b"',
+389 verbose headers   age: '0',
+389 verbose headers   connection: 'keep-alive',
+389 verbose headers   'x-served-by': 'cache-cdg8727-CDG',
+389 verbose headers   'x-cache': 'MISS',
+389 verbose headers   'x-cache-hits': '0',
+389 verbose headers   'x-timer': 'S1507146683.950482,VS0,VE110',
+389 verbose headers   vary: 'Accept-Encoding, Accept' }
+390 silly get cb [ 304,
+390 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+390 silly get     via: '1.1 varnish',
+390 silly get     'cache-control': 'max-age=300',
+390 silly get     etag: 'W/"5996d847-23c9b"',
+390 silly get     age: '0',
+390 silly get     connection: 'keep-alive',
+390 silly get     'x-served-by': 'cache-cdg8727-CDG',
+390 silly get     'x-cache': 'MISS',
+390 silly get     'x-cache-hits': '0',
+390 silly get     'x-timer': 'S1507146683.950482,VS0,VE110',
+390 silly get     vary: 'Accept-Encoding, Accept' } ]
+391 verbose etag https://registry.npmjs.org/eslint-plugin-meteor from cache
+392 verbose get saving eslint-plugin-meteor to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint-plugin-meteor\.cache.json
+393 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+394 http 304 https://registry.npmjs.org/eslint-import-resolver-meteor
+395 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+395 verbose headers   via: '1.1 varnish',
+395 verbose headers   'cache-control': 'max-age=300',
+395 verbose headers   etag: 'W/"58e3ee3f-8d60"',
+395 verbose headers   age: '0',
+395 verbose headers   connection: 'keep-alive',
+395 verbose headers   'x-served-by': 'cache-cdg8730-CDG',
+395 verbose headers   'x-cache': 'MISS',
+395 verbose headers   'x-cache-hits': '0',
+395 verbose headers   'x-timer': 'S1507146683.952601,VS0,VE119',
+395 verbose headers   vary: 'Accept-Encoding, Accept' }
+396 silly get cb [ 304,
+396 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+396 silly get     via: '1.1 varnish',
+396 silly get     'cache-control': 'max-age=300',
+396 silly get     etag: 'W/"58e3ee3f-8d60"',
+396 silly get     age: '0',
+396 silly get     connection: 'keep-alive',
+396 silly get     'x-served-by': 'cache-cdg8730-CDG',
+396 silly get     'x-cache': 'MISS',
+396 silly get     'x-cache-hits': '0',
+396 silly get     'x-timer': 'S1507146683.952601,VS0,VE119',
+396 silly get     vary: 'Accept-Encoding, Accept' } ]
+397 verbose etag https://registry.npmjs.org/eslint-import-resolver-meteor from cache
+398 verbose get saving eslint-import-resolver-meteor to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint-import-resolver-meteor\.cache.json
+399 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+400 http 304 https://registry.npmjs.org/babel-eslint
+401 verbose headers { date: 'Wed, 04 Oct 2017 19:51:23 GMT',
+401 verbose headers   via: '1.1 varnish',
+401 verbose headers   'cache-control': 'max-age=300',
+401 verbose headers   etag: 'W/"59cab62b-29091"',
+401 verbose headers   age: '196',
+401 verbose headers   connection: 'keep-alive',
+401 verbose headers   'x-served-by': 'cache-cdg8720-CDG',
+401 verbose headers   'x-cache': 'HIT',
+401 verbose headers   'x-cache-hits': '1',
+401 verbose headers   'x-timer': 'S1507146683.283409,VS0,VE1',
+401 verbose headers   vary: 'Accept-Encoding, Accept' }
+402 silly get cb [ 304,
+402 silly get   { date: 'Wed, 04 Oct 2017 19:51:23 GMT',
+402 silly get     via: '1.1 varnish',
+402 silly get     'cache-control': 'max-age=300',
+402 silly get     etag: 'W/"59cab62b-29091"',
+402 silly get     age: '196',
+402 silly get     connection: 'keep-alive',
+402 silly get     'x-served-by': 'cache-cdg8720-CDG',
+402 silly get     'x-cache': 'HIT',
+402 silly get     'x-cache-hits': '1',
+402 silly get     'x-timer': 'S1507146683.283409,VS0,VE1',
+402 silly get     vary: 'Accept-Encoding, Accept' } ]
+403 verbose etag https://registry.npmjs.org/babel-eslint from cache
+404 verbose get saving babel-eslint to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\babel-eslint\.cache.json
+405 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+406 http 304 https://registry.npmjs.org/indexof
+407 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+407 verbose headers   via: '1.1 varnish',
+407 verbose headers   'cache-control': 'max-age=300',
+407 verbose headers   etag: 'W/"54e089c8-423"',
+407 verbose headers   age: '293',
+407 verbose headers   connection: 'keep-alive',
+407 verbose headers   'x-served-by': 'cache-cdg8729-CDG',
+407 verbose headers   'x-cache': 'HIT',
+407 verbose headers   'x-cache-hits': '2',
+407 verbose headers   'x-timer': 'S1507146683.961327,VS0,VE0',
+407 verbose headers   vary: 'Accept-Encoding, Accept' }
+408 silly get cb [ 304,
+408 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+408 silly get     via: '1.1 varnish',
+408 silly get     'cache-control': 'max-age=300',
+408 silly get     etag: 'W/"54e089c8-423"',
+408 silly get     age: '293',
+408 silly get     connection: 'keep-alive',
+408 silly get     'x-served-by': 'cache-cdg8729-CDG',
+408 silly get     'x-cache': 'HIT',
+408 silly get     'x-cache-hits': '2',
+408 silly get     'x-timer': 'S1507146683.961327,VS0,VE0',
+408 silly get     vary: 'Accept-Encoding, Accept' } ]
+409 verbose etag https://registry.npmjs.org/indexof from cache
+410 verbose get saving indexof to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\indexof\.cache.json
+411 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+412 http 304 https://registry.npmjs.org/classnames
+413 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+413 verbose headers   via: '1.1 varnish',
+413 verbose headers   'cache-control': 'max-age=300',
+413 verbose headers   etag: 'W/"59d5257e-853c"',
+413 verbose headers   age: '0',
+413 verbose headers   connection: 'keep-alive',
+413 verbose headers   'x-served-by': 'cache-cdg8733-CDG',
+413 verbose headers   'x-cache': 'HIT',
+413 verbose headers   'x-cache-hits': '1',
+413 verbose headers   'x-timer': 'S1507146683.959184,VS0,VE419',
+413 verbose headers   vary: 'Accept-Encoding, Accept' }
+414 silly get cb [ 304,
+414 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+414 silly get     via: '1.1 varnish',
+414 silly get     'cache-control': 'max-age=300',
+414 silly get     etag: 'W/"59d5257e-853c"',
+414 silly get     age: '0',
+414 silly get     connection: 'keep-alive',
+414 silly get     'x-served-by': 'cache-cdg8733-CDG',
+414 silly get     'x-cache': 'HIT',
+414 silly get     'x-cache-hits': '1',
+414 silly get     'x-timer': 'S1507146683.959184,VS0,VE419',
+414 silly get     vary: 'Accept-Encoding, Accept' } ]
+415 verbose etag https://registry.npmjs.org/classnames from cache
+416 verbose get saving classnames to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\classnames\.cache.json
+417 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+418 http 304 https://registry.npmjs.org/meteor-node-stubs
+419 verbose headers { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+419 verbose headers   via: '1.1 varnish',
+419 verbose headers   'cache-control': 'max-age=300',
+419 verbose headers   etag: 'W/"5931ceb4-7133"',
+419 verbose headers   age: '0',
+419 verbose headers   connection: 'keep-alive',
+419 verbose headers   'x-served-by': 'cache-cdg8721-CDG',
+419 verbose headers   'x-cache': 'HIT',
+419 verbose headers   'x-cache-hits': '1',
+419 verbose headers   'x-timer': 'S1507146683.970440,VS0,VE460',
+419 verbose headers   vary: 'Accept-Encoding, Accept' }
+420 silly get cb [ 304,
+420 silly get   { date: 'Wed, 04 Oct 2017 19:51:22 GMT',
+420 silly get     via: '1.1 varnish',
+420 silly get     'cache-control': 'max-age=300',
+420 silly get     etag: 'W/"5931ceb4-7133"',
+420 silly get     age: '0',
+420 silly get     connection: 'keep-alive',
+420 silly get     'x-served-by': 'cache-cdg8721-CDG',
+420 silly get     'x-cache': 'HIT',
+420 silly get     'x-cache-hits': '1',
+420 silly get     'x-timer': 'S1507146683.970440,VS0,VE460',
+420 silly get     vary: 'Accept-Encoding, Accept' } ]
+421 verbose etag https://registry.npmjs.org/meteor-node-stubs from cache
+422 verbose get saving meteor-node-stubs to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\meteor-node-stubs\.cache.json
+423 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+424 http 304 https://registry.npmjs.org/eslint-plugin-jsx-a11y
+425 verbose headers { date: 'Wed, 04 Oct 2017 19:51:23 GMT',
+425 verbose headers   via: '1.1 varnish',
+425 verbose headers   'cache-control': 'max-age=300',
+425 verbose headers   etag: 'W/"59c97e7b-24d3f"',
+425 verbose headers   age: '197',
+425 verbose headers   connection: 'keep-alive',
+425 verbose headers   'x-served-by': 'cache-cdg8727-CDG',
+425 verbose headers   'x-cache': 'HIT',
+425 verbose headers   'x-cache-hits': '1',
+425 verbose headers   'x-timer': 'S1507146684.926669,VS0,VE0',
+425 verbose headers   vary: 'Accept-Encoding, Accept' }
+426 silly get cb [ 304,
+426 silly get   { date: 'Wed, 04 Oct 2017 19:51:23 GMT',
+426 silly get     via: '1.1 varnish',
+426 silly get     'cache-control': 'max-age=300',
+426 silly get     etag: 'W/"59c97e7b-24d3f"',
+426 silly get     age: '197',
+426 silly get     connection: 'keep-alive',
+426 silly get     'x-served-by': 'cache-cdg8727-CDG',
+426 silly get     'x-cache': 'HIT',
+426 silly get     'x-cache-hits': '1',
+426 silly get     'x-timer': 'S1507146684.926669,VS0,VE0',
+426 silly get     vary: 'Accept-Encoding, Accept' } ]
+427 verbose etag https://registry.npmjs.org/eslint-plugin-jsx-a11y from cache
+428 verbose get saving eslint-plugin-jsx-a11y to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\eslint-plugin-jsx-a11y\.cache.json
+429 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+430 verbose outdated not updating babel-eslint because it's currently at the maximum version that matches its specified semver range
+431 verbose outdated not updating eslint because it's currently at the maximum version that matches its specified semver range
+432 verbose outdated not updating eslint-config-airbnb because it's currently at the maximum version that matches its specified semver range
+433 verbose outdated not updating eslint-import-resolver-meteor because it's currently at the maximum version that matches its specified semver range
+434 verbose outdated not updating eslint-plugin-jsx-a11y because it's currently at the maximum version that matches its specified semver range
+435 verbose outdated not updating eslint-plugin-meteor because it's currently at the maximum version that matches its specified semver range
+436 verbose outdated not updating eslint-plugin-react because it's currently at the maximum version that matches its specified semver range
+437 verbose outdated not updating react because it's currently at the maximum version that matches its specified semver range
+438 verbose outdated not updating react-dom because it's currently at the maximum version that matches its specified semver range
+439 verbose outdated not updating react-router because it's currently at the maximum version that matches its specified semver range
+440 verbose outdated not updating recharts because it's currently at the maximum version that matches its specified semver range
+441 info outdated updating [ { dep:
+441 info outdated      { package: [Object],
+441 info outdated        path: 'F:\\git\\property-app',
+441 info outdated        parent: [Object],
+441 info outdated        isMissing: true },
+441 info outdated     depname: 'bcrypt',
+441 info outdated     current: undefined,
+441 info outdated     wanted: '0.8.7',
+441 info outdated     latest: '1.0.3',
+441 info outdated     req: '^0.8.7',
+441 info outdated     what: 'bcrypt@0.8.7' } ]
+442 silly loadCurrentTree Starting
+443 silly install loadCurrentTree
+444 silly install readLocalPackageData
+445 silly fetchPackageMetaData bcrypt@0.8.7
+446 silly fetchNamedPackageData bcrypt
+447 silly mapToRegistry name bcrypt
+448 silly mapToRegistry using default registry
+449 silly mapToRegistry registry https://registry.npmjs.org/
+450 silly mapToRegistry data Result {
+450 silly mapToRegistry   raw: 'bcrypt',
+450 silly mapToRegistry   scope: null,
+450 silly mapToRegistry   escapedName: 'bcrypt',
+450 silly mapToRegistry   name: 'bcrypt',
+450 silly mapToRegistry   rawSpec: '',
+450 silly mapToRegistry   spec: 'latest',
+450 silly mapToRegistry   type: 'tag' }
+451 silly mapToRegistry uri https://registry.npmjs.org/bcrypt
+452 verbose get https://registry.npmjs.org/bcrypt not expired, no request
+453 silly install normalizeTree
+454 silly loadCurrentTree Finishing
+455 silly loadIdealTree Starting
+456 silly install loadIdealTree
+457 silly cloneCurrentTree Starting
+458 silly install cloneCurrentTreeToIdealTree
+459 silly cloneCurrentTree Finishing
+460 silly loadShrinkwrap Starting
+461 silly install loadShrinkwrap
+462 silly loadShrinkwrap Finishing
+463 silly loadAllDepsIntoIdealTree Starting
+464 silly install loadAllDepsIntoIdealTree
+465 silly resolveWithNewModule bcrypt@0.8.7 checking installable status
+466 silly cache add args [ 'bcrypt@0.8.7', null ]
+467 verbose cache add spec bcrypt@0.8.7
+468 silly cache add parsed spec Result {
+468 silly cache add   raw: 'bcrypt@0.8.7',
+468 silly cache add   scope: null,
+468 silly cache add   escapedName: 'bcrypt',
+468 silly cache add   name: 'bcrypt',
+468 silly cache add   rawSpec: '0.8.7',
+468 silly cache add   spec: '0.8.7',
+468 silly cache add   type: 'version' }
+469 silly addNamed bcrypt@0.8.7
+470 verbose addNamed "0.8.7" is a plain semver version for bcrypt
+471 silly mapToRegistry name bcrypt
+472 silly mapToRegistry using default registry
+473 silly mapToRegistry registry https://registry.npmjs.org/
+474 silly mapToRegistry data Result {
+474 silly mapToRegistry   raw: 'bcrypt',
+474 silly mapToRegistry   scope: null,
+474 silly mapToRegistry   escapedName: 'bcrypt',
+474 silly mapToRegistry   name: 'bcrypt',
+474 silly mapToRegistry   rawSpec: '',
+474 silly mapToRegistry   spec: 'latest',
+474 silly mapToRegistry   type: 'tag' }
+475 silly mapToRegistry uri https://registry.npmjs.org/bcrypt
+476 verbose addNameVersion registry:https://registry.npmjs.org/bcrypt not in flight; fetching
+477 verbose get https://registry.npmjs.org/bcrypt not expired, no request
+478 silly cache afterAdd bcrypt@0.8.7
+479 verbose afterAdd C:\Users\ishaq\AppData\Roaming\npm-cache\bcrypt\0.8.7\package\package.json not in flight; writing
+480 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+481 verbose afterAdd C:\Users\ishaq\AppData\Roaming\npm-cache\bcrypt\0.8.7\package\package.json written
+482 silly fetchNamedPackageData bindings
+483 silly mapToRegistry name bindings
+484 silly mapToRegistry using default registry
+485 silly mapToRegistry registry https://registry.npmjs.org/
+486 silly mapToRegistry data Result {
+486 silly mapToRegistry   raw: 'bindings',
+486 silly mapToRegistry   scope: null,
+486 silly mapToRegistry   escapedName: 'bindings',
+486 silly mapToRegistry   name: 'bindings',
+486 silly mapToRegistry   rawSpec: '',
+486 silly mapToRegistry   spec: 'latest',
+486 silly mapToRegistry   type: 'tag' }
+487 silly mapToRegistry uri https://registry.npmjs.org/bindings
+488 silly fetchNamedPackageData nan
+489 silly mapToRegistry name nan
+490 silly mapToRegistry using default registry
+491 silly mapToRegistry registry https://registry.npmjs.org/
+492 silly mapToRegistry data Result {
+492 silly mapToRegistry   raw: 'nan',
+492 silly mapToRegistry   scope: null,
+492 silly mapToRegistry   escapedName: 'nan',
+492 silly mapToRegistry   name: 'nan',
+492 silly mapToRegistry   rawSpec: '',
+492 silly mapToRegistry   spec: 'latest',
+492 silly mapToRegistry   type: 'tag' }
+493 silly mapToRegistry uri https://registry.npmjs.org/nan
+494 verbose request uri https://registry.npmjs.org/bindings
+495 verbose request no auth needed
+496 info attempt registry request try #1 at 12:51:24 PM
+497 verbose etag W/"59b28ad4-4c18"
+498 verbose lastModified Fri, 08 Sep 2017 12:19:32 GMT
+499 http request GET https://registry.npmjs.org/bindings
+500 verbose request uri https://registry.npmjs.org/nan
+501 verbose request no auth needed
+502 info attempt registry request try #1 at 12:51:24 PM
+503 verbose etag W/"59c33594-20237"
+504 verbose lastModified Thu, 21 Sep 2017 03:44:20 GMT
+505 http request GET https://registry.npmjs.org/nan
+506 http 304 https://registry.npmjs.org/bindings
+507 verbose headers { date: 'Wed, 04 Oct 2017 19:51:25 GMT',
+507 verbose headers   via: '1.1 varnish',
+507 verbose headers   'cache-control': 'max-age=300',
+507 verbose headers   etag: 'W/"59b28ad4-4c18"',
+507 verbose headers   age: '0',
+507 verbose headers   connection: 'keep-alive',
+507 verbose headers   'x-served-by': 'cache-cdg8735-CDG',
+507 verbose headers   'x-cache': 'HIT',
+507 verbose headers   'x-cache-hits': '1',
+507 verbose headers   'x-timer': 'S1507146685.280944,VS0,VE15',
+507 verbose headers   vary: 'Accept-Encoding, Accept' }
+508 silly get cb [ 304,
+508 silly get   { date: 'Wed, 04 Oct 2017 19:51:25 GMT',
+508 silly get     via: '1.1 varnish',
+508 silly get     'cache-control': 'max-age=300',
+508 silly get     etag: 'W/"59b28ad4-4c18"',
+508 silly get     age: '0',
+508 silly get     connection: 'keep-alive',
+508 silly get     'x-served-by': 'cache-cdg8735-CDG',
+508 silly get     'x-cache': 'HIT',
+508 silly get     'x-cache-hits': '1',
+508 silly get     'x-timer': 'S1507146685.280944,VS0,VE15',
+508 silly get     vary: 'Accept-Encoding, Accept' } ]
+509 verbose etag https://registry.npmjs.org/bindings from cache
+510 verbose get saving bindings to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\bindings\.cache.json
+511 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+512 http 304 https://registry.npmjs.org/nan
+513 verbose headers { date: 'Wed, 04 Oct 2017 19:51:25 GMT',
+513 verbose headers   via: '1.1 varnish',
+513 verbose headers   'cache-control': 'max-age=300',
+513 verbose headers   etag: 'W/"59c33594-20237"',
+513 verbose headers   age: '22',
+513 verbose headers   connection: 'keep-alive',
+513 verbose headers   'x-served-by': 'cache-cdg8732-CDG',
+513 verbose headers   'x-cache': 'HIT',
+513 verbose headers   'x-cache-hits': '1',
+513 verbose headers   'x-timer': 'S1507146685.297874,VS0,VE1',
+513 verbose headers   vary: 'Accept-Encoding, Accept' }
+514 silly get cb [ 304,
+514 silly get   { date: 'Wed, 04 Oct 2017 19:51:25 GMT',
+514 silly get     via: '1.1 varnish',
+514 silly get     'cache-control': 'max-age=300',
+514 silly get     etag: 'W/"59c33594-20237"',
+514 silly get     age: '22',
+514 silly get     connection: 'keep-alive',
+514 silly get     'x-served-by': 'cache-cdg8732-CDG',
+514 silly get     'x-cache': 'HIT',
+514 silly get     'x-cache-hits': '1',
+514 silly get     'x-timer': 'S1507146685.297874,VS0,VE1',
+514 silly get     vary: 'Accept-Encoding, Accept' } ]
+515 verbose etag https://registry.npmjs.org/nan from cache
+516 verbose get saving nan to C:\Users\ishaq\AppData\Roaming\npm-cache\registry.npmjs.org\nan\.cache.json
+517 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+518 silly resolveWithNewModule bindings@1.2.1 checking installable status
+519 silly cache add args [ 'bindings@1.2.1', null ]
+520 verbose cache add spec bindings@1.2.1
+521 silly cache add parsed spec Result {
+521 silly cache add   raw: 'bindings@1.2.1',
+521 silly cache add   scope: null,
+521 silly cache add   escapedName: 'bindings',
+521 silly cache add   name: 'bindings',
+521 silly cache add   rawSpec: '1.2.1',
+521 silly cache add   spec: '1.2.1',
+521 silly cache add   type: 'version' }
+522 silly addNamed bindings@1.2.1
+523 verbose addNamed "1.2.1" is a plain semver version for bindings
+524 silly mapToRegistry name bindings
+525 silly mapToRegistry using default registry
+526 silly mapToRegistry registry https://registry.npmjs.org/
+527 silly mapToRegistry data Result {
+527 silly mapToRegistry   raw: 'bindings',
+527 silly mapToRegistry   scope: null,
+527 silly mapToRegistry   escapedName: 'bindings',
+527 silly mapToRegistry   name: 'bindings',
+527 silly mapToRegistry   rawSpec: '',
+527 silly mapToRegistry   spec: 'latest',
+527 silly mapToRegistry   type: 'tag' }
+528 silly mapToRegistry uri https://registry.npmjs.org/bindings
+529 verbose addNameVersion registry:https://registry.npmjs.org/bindings not in flight; fetching
+530 silly resolveWithNewModule nan@2.3.5 checking installable status
+531 silly cache add args [ 'nan@2.3.5', null ]
+532 verbose cache add spec nan@2.3.5
+533 silly cache add parsed spec Result {
+533 silly cache add   raw: 'nan@2.3.5',
+533 silly cache add   scope: null,
+533 silly cache add   escapedName: 'nan',
+533 silly cache add   name: 'nan',
+533 silly cache add   rawSpec: '2.3.5',
+533 silly cache add   spec: '2.3.5',
+533 silly cache add   type: 'version' }
+534 silly addNamed nan@2.3.5
+535 verbose addNamed "2.3.5" is a plain semver version for nan
+536 silly mapToRegistry name nan
+537 silly mapToRegistry using default registry
+538 silly mapToRegistry registry https://registry.npmjs.org/
+539 silly mapToRegistry data Result {
+539 silly mapToRegistry   raw: 'nan',
+539 silly mapToRegistry   scope: null,
+539 silly mapToRegistry   escapedName: 'nan',
+539 silly mapToRegistry   name: 'nan',
+539 silly mapToRegistry   rawSpec: '',
+539 silly mapToRegistry   spec: 'latest',
+539 silly mapToRegistry   type: 'tag' }
+540 silly mapToRegistry uri https://registry.npmjs.org/nan
+541 verbose addNameVersion registry:https://registry.npmjs.org/nan not in flight; fetching
+542 verbose get https://registry.npmjs.org/bindings not expired, no request
+543 verbose get https://registry.npmjs.org/nan not expired, no request
+544 silly cache afterAdd bindings@1.2.1
+545 verbose afterAdd C:\Users\ishaq\AppData\Roaming\npm-cache\bindings\1.2.1\package\package.json not in flight; writing
+546 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+547 verbose afterAdd C:\Users\ishaq\AppData\Roaming\npm-cache\bindings\1.2.1\package\package.json written
+548 silly cache afterAdd nan@2.3.5
+549 verbose afterAdd C:\Users\ishaq\AppData\Roaming\npm-cache\nan\2.3.5\package\package.json not in flight; writing
+550 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+551 verbose afterAdd C:\Users\ishaq\AppData\Roaming\npm-cache\nan\2.3.5\package\package.json written
+552 silly loadAllDepsIntoIdealTree Finishing
+553 silly loadIdealTree Finishing
+554 silly currentTree property-app@
+554 silly currentTree +-- acorn-jsx@3.0.1
+554 silly currentTree | `-- acorn@3.3.0
+554 silly currentTree +-- acorn@5.1.2
+554 silly currentTree +-- add-dom-event-listener@1.0.2
+554 silly currentTree +-- ajv-keywords@1.5.1
+554 silly currentTree +-- ajv@4.11.8
+554 silly currentTree +-- ansi-escapes@1.4.0
+554 silly currentTree +-- ansi-regex@2.1.1
+554 silly currentTree +-- ansi-styles@2.2.1
+554 silly currentTree +-- antd@2.13.4
+554 silly currentTree +-- argparse@1.0.9
+554 silly currentTree +-- array-tree-filter@1.0.1
+554 silly currentTree +-- array-union@1.0.2
+554 silly currentTree +-- array-uniq@1.0.3
+554 silly currentTree +-- array.prototype.find@2.0.4
+554 silly currentTree +-- arrify@1.0.1
+554 silly currentTree +-- asap@2.0.6
+554 silly currentTree +-- async-validator@1.8.1
+554 silly currentTree +-- async@2.5.0
+554 silly currentTree +-- attr-accept@1.1.0
+554 silly currentTree +-- babel-code-frame@6.26.0
+554 silly currentTree +-- babel-core@6.26.0
+554 silly currentTree | `-- debug@2.6.9
+554 silly currentTree +-- babel-eslint@7.2.3
+554 silly currentTree +-- babel-generator@6.26.0
+554 silly currentTree +-- babel-helpers@6.24.1
+554 silly currentTree +-- babel-messages@6.23.0
+554 silly currentTree +-- babel-register@6.26.0
+554 silly currentTree | `-- mkdirp@0.5.1
+554 silly currentTree +-- babel-runtime@6.26.0
+554 silly currentTree +-- babel-template@6.26.0
+554 silly currentTree +-- babel-traverse@6.26.0
+554 silly currentTree | `-- debug@2.6.9
+554 silly currentTree +-- babel-types@6.26.0
+554 silly currentTree +-- babylon@6.18.0
+554 silly currentTree +-- balanced-match@1.0.0
+554 silly currentTree +-- binary@0.3.0
+554 silly currentTree +-- boolbase@1.0.0
+554 silly currentTree +-- brace-expansion@1.1.8
+554 silly currentTree +-- bson@0.1.5
+554 silly currentTree +-- buffers@0.1.1
+554 silly currentTree +-- builtin-modules@1.1.1
+554 silly currentTree +-- caller-path@0.1.0
+554 silly currentTree +-- callsites@0.2.0
+554 silly currentTree +-- can-use-dom@0.1.0
+554 silly currentTree +-- chain-function@1.0.0
+554 silly currentTree +-- chainsaw@0.1.0
+554 silly currentTree +-- chalk@1.1.3
+554 silly currentTree +-- cheerio@0.22.0
+554 silly currentTree +-- circular-json@0.3.3
+554 silly currentTree +-- classnames@2.2.5
+554 silly currentTree +-- clean-css@0.8.2
+554 silly currentTree +-- cli-cursor@1.0.2
+554 silly currentTree +-- cli-width@2.2.0
+554 silly currentTree +-- co@4.6.0
+554 silly currentTree +-- code-point-at@1.1.0
+554 silly currentTree +-- coffee-script@1.4.0
+554 silly currentTree +-- colors@0.6.2
+554 silly currentTree +-- component-classes@1.2.6
+554 silly currentTree +-- component-indexof@0.0.3
+554 silly currentTree +-- concat-map@0.0.1
+554 silly currentTree +-- concat-stream@1.6.0
+554 silly currentTree +-- connect@1.9.2
+554 silly currentTree +-- contains-path@0.1.0
+554 silly currentTree +-- convert-source-map@1.5.0
+554 silly currentTree +-- core-js@2.5.1
+554 silly currentTree +-- core-util-is@1.0.2
+554 silly currentTree +-- create-react-class@15.6.2
+554 silly currentTree +-- css-animation@1.4.1
+554 silly currentTree +-- css-select@1.2.0
+554 silly currentTree +-- css-what@2.1.0
+554 silly currentTree +-- cssom@0.2.5
+554 silly currentTree +-- d@1.0.0
+554 silly currentTree +-- d3-array@0.7.1
+554 silly currentTree +-- d3-axis@0.3.2
+554 silly currentTree | +-- d3-collection@0.2.0
+554 silly currentTree | +-- d3-interpolate@0.8.3
+554 silly currentTree | `-- d3-scale@0.7.2
+554 silly currentTree +-- d3-collection@0.1.2
+554 silly currentTree +-- d3-color@0.4.2
+554 silly currentTree +-- d3-dispatch@0.4.4
+554 silly currentTree +-- d3-ease@0.7.0
+554 silly currentTree +-- d3-format@0.5.1
+554 silly currentTree +-- d3-interpolate@0.7.0
+554 silly currentTree +-- d3-path@0.1.5
+554 silly currentTree +-- d3-scale@0.6.4
+554 silly currentTree +-- d3-selection@0.7.3
+554 silly currentTree +-- d3-shape@0.5.1
+554 silly currentTree +-- d3-time-format@0.3.2
+554 silly currentTree +-- d3-time@0.2.6
+554 silly currentTree +-- d3-timer@0.4.4
+554 silly currentTree +-- d3-transition@0.2.10
+554 silly currentTree | `-- d3-interpolate@0.8.3
+554 silly currentTree +-- d3@3.5.17
+554 silly currentTree +-- damerau-levenshtein@1.0.4
+554 silly currentTree +-- debug@3.1.0
+554 silly currentTree +-- deep-is@0.1.3
+554 silly currentTree +-- define-properties@1.1.2
+554 silly currentTree +-- del@2.2.2
+554 silly currentTree +-- detect-indent@4.0.0
+554 silly currentTree +-- doctrine@2.0.0
+554 silly currentTree +-- dom-align@1.6.5
+554 silly currentTree +-- dom-closest@0.2.0
+554 silly currentTree +-- dom-helpers@3.2.1
+554 silly currentTree +-- dom-matches@2.0.0
+554 silly currentTree +-- dom-scroll-into-view@1.2.1
+554 silly currentTree +-- dom-serializer@0.1.0
+554 silly currentTree | `-- domelementtype@1.1.3
+554 silly currentTree +-- domelementtype@1.3.0
+554 silly currentTree +-- domhandler@2.4.1
+554 silly currentTree +-- domutils@1.5.1
+554 silly currentTree +-- draft-js@0.10.3
+554 silly currentTree +-- encoding@0.1.12
+554 silly currentTree +-- enquire.js@2.1.6
+554 silly currentTree +-- entities@1.1.1
+554 silly currentTree +-- enzyme@2.9.1
+554 silly currentTree +-- error-ex@1.3.1
+554 silly currentTree +-- es-abstract@1.9.0
+554 silly currentTree +-- es-to-primitive@1.1.1
+554 silly currentTree +-- es5-ext@0.10.30
+554 silly currentTree +-- es6-iterator@2.0.1
+554 silly currentTree +-- es6-map@0.1.5
+554 silly currentTree +-- es6-set@0.1.5
+554 silly currentTree +-- es6-symbol@3.1.1
+554 silly currentTree +-- es6-weak-map@2.0.2
+554 silly currentTree +-- escape-string-regexp@1.0.5
+554 silly currentTree +-- escope@3.6.0
+554 silly currentTree +-- eslint-config-airbnb-base@10.0.1
+554 silly currentTree +-- eslint-config-airbnb@13.0.0
+554 silly currentTree +-- eslint-import-resolver-meteor@0.3.4
+554 silly currentTree +-- eslint-import-resolver-node@0.3.1
+554 silly currentTree | `-- debug@2.6.9
+554 silly currentTree +-- eslint-module-utils@2.1.1
+554 silly currentTree | `-- debug@2.6.9
+554 silly currentTree +-- eslint-plugin-import@2.7.0
+554 silly currentTree | +-- debug@2.6.9
+554 silly currentTree | `-- doctrine@1.5.0
+554 silly currentTree +-- eslint-plugin-jsx-a11y@3.0.2
+554 silly currentTree +-- eslint-plugin-meteor@4.1.6
+554 silly currentTree | `-- path-exists@3.0.0
+554 silly currentTree +-- eslint-plugin-react@6.10.3
+554 silly currentTree | `-- doctrine@1.5.0
+554 silly currentTree +-- eslint@3.19.0
+554 silly currentTree | +-- debug@2.6.9
+554 silly currentTree | +-- mkdirp@0.5.1
+554 silly currentTree | `-- progress@1.1.8
+554 silly currentTree +-- espree@3.5.1
+554 silly currentTree +-- esprima@4.0.0
+554 silly currentTree +-- esquery@1.0.0
+554 silly currentTree +-- esrecurse@4.2.0
+554 silly currentTree +-- estraverse@4.2.0
+554 silly currentTree +-- esutils@2.0.2
+554 silly currentTree +-- event-emitter@0.3.5
+554 silly currentTree +-- eventlistener@0.0.1
+554 silly currentTree +-- exit-hook@1.1.1
+554 silly currentTree +-- fast-levenshtein@2.0.6
+554 silly currentTree +-- faye-websocket@0.4.0
+554 silly currentTree +-- fbjs@0.8.16
+554 silly currentTree | `-- core-js@1.2.7
+554 silly currentTree +-- figures@1.7.0
+554 silly currentTree +-- file-entry-cache@2.0.0
+554 silly currentTree +-- find-up@1.1.2
+554 silly currentTree +-- flat-cache@1.3.0
+554 silly currentTree +-- foreach@2.0.5
+554 silly currentTree +-- formidable@1.0.17
+554 silly currentTree +-- fs.realpath@1.0.0
+554 silly currentTree +-- fstream@0.1.31
+554 silly currentTree | +-- graceful-fs@3.0.11
+554 silly currentTree | `-- mkdirp@0.5.1
+554 silly currentTree +-- function-bind@1.1.1
+554 silly currentTree +-- function.prototype.name@1.0.3
+554 silly currentTree +-- generate-function@2.0.0
+554 silly currentTree +-- generate-object-property@1.2.0
+554 silly currentTree +-- geoip-lite@1.2.1
+554 silly currentTree | `-- colors@1.1.2
+554 silly currentTree +-- glob@7.1.2
+554 silly currentTree +-- globals@9.18.0
+554 silly currentTree +-- globby@5.0.0
+554 silly currentTree +-- graceful-fs@4.1.11
+554 silly currentTree +-- gridle@2.0.48
+554 silly currentTree +-- gsap@1.20.3
+554 silly currentTree +-- gzippo@0.1.7
+554 silly currentTree +-- hammerjs@2.0.8
+554 silly currentTree +-- handlebars@1.0.7
+554 silly currentTree | `-- uglify-js@1.2.6
+554 silly currentTree +-- has-ansi@2.0.0
+554 silly currentTree +-- has@1.0.1
+554 silly currentTree +-- history@3.3.0
+554 silly currentTree +-- hoist-non-react-statics@1.2.0
+554 silly currentTree +-- home-or-tmp@2.0.0
+554 silly currentTree +-- hosted-git-info@2.5.0
+554 silly currentTree +-- htmlparser2@3.9.2
+554 silly currentTree +-- http-proxy@0.8.5
+554 silly currentTree +-- iconv-lite@0.4.19
+554 silly currentTree +-- ignore@3.3.5
+554 silly currentTree +-- immutable@3.7.6
+554 silly currentTree +-- imurmurhash@0.1.4
+554 silly currentTree +-- indexof@0.0.1
+554 silly currentTree +-- inflight@1.0.6
+554 silly currentTree +-- inherits@2.0.3
+554 silly currentTree +-- inquirer@0.12.0
+554 silly currentTree +-- interpret@1.0.4
+554 silly currentTree +-- invariant@2.2.2
+554 silly currentTree +-- is-arrayish@0.2.1
+554 silly currentTree +-- is-builtin-module@1.0.0
+554 silly currentTree +-- is-callable@1.1.3
+554 silly currentTree +-- is-date-object@1.0.1
+554 silly currentTree +-- is-finite@1.0.2
+554 silly currentTree +-- is-fullwidth-code-point@1.0.0
+554 silly currentTree +-- is-my-json-valid@2.16.1
+554 silly currentTree +-- is-path-cwd@1.0.0
+554 silly currentTree +-- is-path-in-cwd@1.0.0
+554 silly currentTree +-- is-path-inside@1.0.0
+554 silly currentTree +-- is-property@1.0.2
+554 silly currentTree +-- is-regex@1.0.4
+554 silly currentTree +-- is-resolvable@1.0.0
+554 silly currentTree +-- is-stream@1.1.0
+554 silly currentTree +-- is-subset@0.1.1
+554 silly currentTree +-- is-symbol@1.0.1
+554 silly currentTree +-- isarray@1.0.0
+554 silly currentTree +-- isomorphic-fetch@2.2.1
+554 silly currentTree +-- js-tokens@3.0.2
+554 silly currentTree +-- js-yaml@3.10.0
+554 silly currentTree +-- jsesc@1.3.0
+554 silly currentTree +-- json-stable-stringify@1.0.1
+554 silly currentTree +-- json2mq@0.2.0
+554 silly currentTree +-- json5@0.5.1
+554 silly currentTree +-- jsonify@0.0.0
+554 silly currentTree +-- jsonpointer@4.0.1
+554 silly currentTree +-- jsx-ast-utils@1.4.1
+554 silly currentTree +-- keypress@0.1.0
+554 silly currentTree +-- lazy@1.0.11
+554 silly currentTree +-- less@1.3.1
+554 silly currentTree +-- levn@0.3.0
+554 silly currentTree +-- load-json-file@2.0.0
+554 silly currentTree +-- locate-path@2.0.0
+554 silly currentTree | `-- path-exists@3.0.0
+554 silly currentTree +-- lodash-es@4.17.4
+554 silly currentTree +-- lodash._getnative@3.9.1
+554 silly currentTree +-- lodash.assignin@4.2.0
+554 silly currentTree +-- lodash.bind@4.2.1
+554 silly currentTree +-- lodash.cond@4.5.2
+554 silly currentTree +-- lodash.debounce@4.0.8
+554 silly currentTree +-- lodash.defaults@4.2.0
+554 silly currentTree +-- lodash.filter@4.6.0
+554 silly currentTree +-- lodash.find@4.6.0
+554 silly currentTree +-- lodash.flatten@4.4.0
+554 silly currentTree +-- lodash.foreach@4.5.0
+554 silly currentTree +-- lodash.get@4.4.2
+554 silly currentTree +-- lodash.isarguments@3.1.0
+554 silly currentTree +-- lodash.isarray@3.0.4
+554 silly currentTree +-- lodash.keys@3.1.2
+554 silly currentTree +-- lodash.map@4.6.0
+554 silly currentTree +-- lodash.memoize@4.1.2
+554 silly currentTree +-- lodash.merge@4.6.0
+554 silly currentTree +-- lodash.pick@4.4.0
+554 silly currentTree +-- lodash.reduce@4.6.0
+554 silly currentTree +-- lodash.reject@4.6.0
+554 silly currentTree +-- lodash.some@4.6.0
+554 silly currentTree +-- lodash.throttle@4.1.1
+554 silly currentTree +-- lodash@4.17.4
+554 silly currentTree +-- loose-envify@1.3.1
+554 silly currentTree +-- mailcomposer@0.1.15
+554 silly currentTree +-- match-stream@0.0.2
+554 silly currentTree | +-- isarray@0.0.1
+554 silly currentTree | +-- readable-stream@1.0.34
+554 silly currentTree | `-- string_decoder@0.10.31
+554 silly currentTree +-- math-expression-evaluator@1.2.17
+554 silly currentTree +-- meteor-node-stubs@0.2.11
+554 silly currentTree | +-- asn1.js@4.9.0
+554 silly currentTree | +-- assert@1.4.1
+554 silly currentTree | +-- balanced-match@0.4.2
+554 silly currentTree | +-- base64-js@1.2.0
+554 silly currentTree | +-- Base64@0.2.1
+554 silly currentTree | +-- bn.js@4.11.6
+554 silly currentTree | +-- brace-expansion@1.1.7
+554 silly currentTree | +-- brorand@1.0.6
+554 silly currentTree | +-- browserify-aes@1.0.6
+554 silly currentTree | +-- browserify-cipher@1.0.0
+554 silly currentTree | +-- browserify-des@1.0.0
+554 silly currentTree | +-- browserify-rsa@4.0.1
+554 silly currentTree | +-- browserify-sign@4.0.0
+554 silly currentTree | +-- browserify-zlib@0.1.4
+554 silly currentTree | +-- buffer-xor@1.0.3
+554 silly currentTree | +-- buffer@4.9.1
+554 silly currentTree | +-- cipher-base@1.0.3
+554 silly currentTree | +-- concat-map@0.0.1
+554 silly currentTree | +-- console-browserify@1.1.0
+554 silly currentTree | +-- constants-browserify@1.0.0
+554 silly currentTree | +-- create-ecdh@4.0.0
+554 silly currentTree | +-- create-hash@1.1.2
+554 silly currentTree | +-- create-hmac@1.1.4
+554 silly currentTree | +-- crypto-browserify@3.11.0
+554 silly currentTree | +-- date-now@0.1.4
+554 silly currentTree | +-- des.js@1.0.0
+554 silly currentTree | +-- diffie-hellman@5.0.2
+554 silly currentTree | +-- domain-browser@1.1.7
+554 silly currentTree | +-- elliptic@6.3.2
+554 silly currentTree | +-- events@1.1.1
+554 silly currentTree | +-- evp_bytestokey@1.0.0
+554 silly currentTree | +-- fs.realpath@1.0.0
+554 silly currentTree | +-- glob@7.1.2
+554 silly currentTree | +-- hash.js@1.0.3
+554 silly currentTree | +-- http-browserify@1.7.0
+554 silly currentTree | +-- https-browserify@0.0.1
+554 silly currentTree | +-- ieee754@1.1.8
+554 silly currentTree | +-- indexof@0.0.1
+554 silly currentTree | +-- inflight@1.0.6
+554 silly currentTree | +-- inherits@2.0.1
+554 silly currentTree | +-- isarray@1.0.0
+554 silly currentTree | +-- miller-rabin@4.0.0
+554 silly currentTree | +-- minimalistic-assert@1.0.0
+554 silly currentTree | +-- minimatch@3.0.4
+554 silly currentTree | +-- once@1.4.0
+554 silly currentTree | +-- os-browserify@0.2.1
+554 silly currentTree | +-- pako@0.2.9
+554 silly currentTree | +-- parse-asn1@5.0.0
+554 silly currentTree | +-- path-browserify@0.0.0
+554 silly currentTree | +-- path-is-absolute@1.0.1
+554 silly currentTree | +-- pbkdf2@3.0.9
+554 silly currentTree | +-- process-nextick-args@1.0.7
+554 silly currentTree | +-- process@0.11.9
+554 silly currentTree | +-- public-encrypt@4.0.0
+554 silly currentTree | +-- punycode@1.4.1
+554 silly currentTree | +-- querystring-es3@0.2.1
+554 silly currentTree | +-- querystring@0.2.0
+554 silly currentTree | +-- randombytes@2.0.3
+554 silly currentTree | +-- readable-stream@2.2.10
+554 silly currentTree | +-- rimraf@2.6.1
+554 silly currentTree | +-- ripemd160@1.0.1
+554 silly currentTree | +-- safe-buffer@5.0.1
+554 silly currentTree | +-- sha.js@2.4.8
+554 silly currentTree | +-- stream-browserify@2.0.1
+554 silly currentTree | +-- string_decoder@1.0.1
+554 silly currentTree | +-- timers-browserify@1.4.2
+554 silly currentTree | +-- tty-browserify@0.0.0
+554 silly currentTree | +-- url@0.11.0
+554 silly currentTree | | `-- punycode@1.3.2
+554 silly currentTree | +-- util-deprecate@1.0.2
+554 silly currentTree | +-- util@0.10.3
+554 silly currentTree | +-- vm-browserify@0.0.4
+554 silly currentTree | `-- wrappy@1.0.2
+554 silly currentTree +-- mime@1.2.7
+554 silly currentTree +-- mimelib-noiconv@0.1.9
+554 silly currentTree +-- minimatch@3.0.4
+554 silly currentTree +-- minimist@0.0.8
+554 silly currentTree +-- mkdirp@0.3.5
+554 silly currentTree +-- moment@2.18.1
+554 silly currentTree +-- mongodb@1.1.11
+554 silly currentTree +-- ms@2.0.0
+554 silly currentTree +-- mute-stream@0.0.5
+554 silly currentTree +-- natives@1.1.0
+554 silly currentTree +-- natural-compare@1.4.0
+554 silly currentTree +-- nib@0.8.2
+554 silly currentTree +-- node-fetch@1.7.3
+554 silly currentTree +-- node-uuid@1.3.3
+554 silly currentTree +-- normalize-package-data@2.4.0
+554 silly currentTree | `-- semver@5.4.1
+554 silly currentTree +-- nth-check@1.0.1
+554 silly currentTree +-- number-is-nan@1.0.1
+554 silly currentTree +-- object-assign@4.1.1
+554 silly currentTree +-- object-is@1.0.1
+554 silly currentTree +-- object-keys@1.0.11
+554 silly currentTree +-- object.assign@4.0.4
+554 silly currentTree +-- object.entries@1.0.4
+554 silly currentTree +-- object.values@1.0.4
+554 silly currentTree +-- omit.js@1.0.0
+554 silly currentTree +-- once@1.4.0
+554 silly currentTree +-- onetime@1.1.0
+554 silly currentTree +-- optimist@0.3.5
+554 silly currentTree +-- optionator@0.8.2
+554 silly currentTree | `-- wordwrap@1.0.0
+554 silly currentTree +-- os-homedir@1.0.2
+554 silly currentTree +-- os-tmpdir@1.0.2
+554 silly currentTree +-- over@0.0.5
+554 silly currentTree +-- p-limit@1.1.0
+554 silly currentTree +-- p-locate@2.0.0
+554 silly currentTree +-- parse-json@2.2.0
+554 silly currentTree +-- path-exists@2.1.0
+554 silly currentTree +-- path-is-absolute@1.0.1
+554 silly currentTree +-- path-is-inside@1.0.2
+554 silly currentTree +-- path-parse@1.0.5
+554 silly currentTree +-- path-type@2.0.0
+554 silly currentTree +-- performance-now@2.1.0
+554 silly currentTree +-- pify@2.3.0
+554 silly currentTree +-- pinkie-promise@2.0.1
+554 silly currentTree +-- pinkie@2.0.4
+554 silly currentTree +-- pkg-dir@1.0.0
+554 silly currentTree +-- pkginfo@0.2.3
+554 silly currentTree +-- pluralize@1.2.1
+554 silly currentTree +-- prelude-ls@1.1.2
+554 silly currentTree +-- private@0.1.7
+554 silly currentTree +-- process-nextick-args@1.0.7
+554 silly currentTree +-- progress@0.0.5
+554 silly currentTree +-- promise@7.3.1
+554 silly currentTree +-- prop-types@15.6.0
+554 silly currentTree +-- pullstream@0.4.1
+554 silly currentTree | +-- isarray@0.0.1
+554 silly currentTree | +-- readable-stream@1.0.34
+554 silly currentTree | `-- string_decoder@0.10.31
+554 silly currentTree +-- qs@6.5.1
+554 silly currentTree +-- query-selector@1.0.9
+554 silly currentTree +-- query-string@4.3.4
+554 silly currentTree +-- raf@3.4.0
+554 silly currentTree +-- rai@0.1.12
+554 silly currentTree +-- rc-align@2.3.4
+554 silly currentTree +-- rc-animate@2.4.1
+554 silly currentTree +-- rc-calendar@9.0.4
+554 silly currentTree +-- rc-cascader@0.11.6
+554 silly currentTree +-- rc-checkbox@2.0.3
+554 silly currentTree +-- rc-collapse@1.7.6
+554 silly currentTree +-- rc-dialog@6.5.11
+554 silly currentTree +-- rc-dropdown@1.5.1
+554 silly currentTree +-- rc-editor-core@0.7.8
+554 silly currentTree +-- rc-editor-mention@0.6.13
+554 silly currentTree +-- rc-form@1.4.8
+554 silly currentTree +-- rc-hammerjs@0.6.9
+554 silly currentTree +-- rc-input-number@3.6.7
+554 silly currentTree +-- rc-menu@5.0.13
+554 silly currentTree +-- rc-notification@2.0.6
+554 silly currentTree +-- rc-pagination@1.12.9
+554 silly currentTree +-- rc-progress@2.2.2
+554 silly currentTree +-- rc-rate@2.1.1
+554 silly currentTree +-- rc-select@6.9.3
+554 silly currentTree +-- rc-slider@8.3.1
+554 silly currentTree +-- rc-steps@2.5.2
+554 silly currentTree +-- rc-switch@1.5.3
+554 silly currentTree +-- rc-table@5.6.12
+554 silly currentTree | `-- shallowequal@0.2.2
+554 silly currentTree +-- rc-tabs@9.1.4
+554 silly currentTree +-- rc-time-picker@2.4.1
+554 silly currentTree +-- rc-tooltip@3.4.9
+554 silly currentTree +-- rc-touchable@1.2.3
+554 silly currentTree +-- rc-tree-select@1.10.9
+554 silly currentTree +-- rc-tree@1.7.7
+554 silly currentTree +-- rc-trigger@1.11.4
+554 silly currentTree +-- rc-upload@2.4.3
+554 silly currentTree | `-- warning@2.1.0
+554 silly currentTree +-- rc-util@4.1.0
+554 silly currentTree | `-- shallowequal@0.2.2
+554 silly currentTree +-- react-addons-pure-render-mixin@15.6.2
+554 silly currentTree +-- react-addons-transition-group@15.6.2
+554 silly currentTree +-- react-d3-basic@1.6.11
+554 silly currentTree +-- react-d3-core@1.3.9
+554 silly currentTree +-- react-d3-shape@0.2.24
+554 silly currentTree +-- react-dom@15.6.2
+554 silly currentTree +-- react-faux-dom@2.7.1
+554 silly currentTree +-- react-lazy-load@3.0.12
+554 silly currentTree +-- react-redux@5.0.6
+554 silly currentTree | `-- hoist-non-react-statics@2.3.1
+554 silly currentTree +-- react-resize-detector@0.3.3
+554 silly currentTree +-- react-router@3.2.0
+554 silly currentTree +-- react-slick@0.15.4
+554 silly currentTree +-- react-smooth@0.1.20
+554 silly currentTree +-- react-transition-group@1.2.1
+554 silly currentTree +-- react@15.6.2
+554 silly currentTree +-- read-pkg-up@2.0.0
+554 silly currentTree | `-- find-up@2.1.0
+554 silly currentTree +-- read-pkg@2.0.0
+554 silly currentTree +-- readable-stream@2.3.3
+554 silly currentTree +-- readline2@1.0.1
+554 silly currentTree +-- recharts-scale@0.2.1
+554 silly currentTree +-- recharts@0.20.8
+554 silly currentTree | +-- core-js@2.4.1
+554 silly currentTree | +-- d3-array@1.2.1
+554 silly currentTree | +-- d3-collection@1.0.4
+554 silly currentTree | +-- d3-color@1.0.3
+554 silly currentTree | +-- d3-format@1.2.0
+554 silly currentTree | +-- d3-interpolate@1.1.5
+554 silly currentTree | +-- d3-path@1.0.5
+554 silly currentTree | +-- d3-scale@1.0.4
+554 silly currentTree | +-- d3-shape@1.0.4
+554 silly currentTree | +-- d3-time-format@2.0.5
+554 silly currentTree | `-- d3-time@1.0.7
+554 silly currentTree +-- rechoir@0.6.2
+554 silly currentTree +-- reduce-css-calc@1.3.0
+554 silly currentTree | `-- balanced-match@0.4.2
+554 silly currentTree +-- reduce-function-call@1.0.2
+554 silly currentTree | `-- balanced-match@0.4.2
+554 silly currentTree +-- redux@3.7.2
+554 silly currentTree +-- regenerator-runtime@0.11.0
+554 silly currentTree +-- repeating@2.0.1
+554 silly currentTree +-- request@2.12.0
+554 silly currentTree | +-- form-data@0.0.3
+554 silly currentTree | | +-- async@0.1.9
+554 silly currentTree | | `-- combined-stream@0.0.3
+554 silly currentTree | |   `-- delayed-stream@0.0.5
+554 silly currentTree | `-- mime@1.2.7
+554 silly currentTree +-- require-uncached@1.0.3
+554 silly currentTree +-- resolve-from@1.0.1
+554 silly currentTree +-- resolve@1.4.0
+554 silly currentTree +-- restore-cursor@1.0.1
+554 silly currentTree +-- rimraf@2.6.2
+554 silly currentTree +-- run-async@0.1.0
+554 silly currentTree +-- rx-lite@3.1.2
+554 silly currentTree +-- safe-buffer@5.1.1
+554 silly currentTree +-- semver@1.1.0
+554 silly currentTree +-- setimmediate@1.0.5
+554 silly currentTree +-- shallow-equal@1.0.0
+554 silly currentTree +-- shallowequal@1.0.2
+554 silly currentTree +-- shelljs@0.7.8
+554 silly currentTree +-- simplesmtp@0.1.25
+554 silly currentTree +-- slash@1.0.0
+554 silly currentTree +-- slice-ansi@0.0.4
+554 silly currentTree +-- slice-stream@1.0.0
+554 silly currentTree | +-- isarray@0.0.1
+554 silly currentTree | +-- readable-stream@1.0.34
+554 silly currentTree | `-- string_decoder@0.10.31
+554 silly currentTree +-- slick-carousel@1.8.1
+554 silly currentTree +-- sockjs@0.3.4
+554 silly currentTree +-- source-map-support@0.4.18
+554 silly currentTree +-- source-map@0.5.7
+554 silly currentTree +-- spdx-correct@1.0.2
+554 silly currentTree +-- spdx-expression-parse@1.0.4
+554 silly currentTree +-- spdx-license-ids@1.2.2
+554 silly currentTree +-- sprintf-js@1.0.3
+554 silly currentTree +-- stream-buffers@0.2.3
+554 silly currentTree +-- strict-uri-encode@1.1.0
+554 silly currentTree +-- string_decoder@1.0.3
+554 silly currentTree +-- string-convert@0.2.1
+554 silly currentTree +-- string-width@1.0.2
+554 silly currentTree +-- strip-ansi@3.0.1
+554 silly currentTree +-- strip-bom@3.0.0
+554 silly currentTree +-- strip-json-comments@2.0.1
+554 silly currentTree +-- style-attr@1.3.0
+554 silly currentTree +-- stylus@0.30.1
+554 silly currentTree +-- supports-color@2.0.0
+554 silly currentTree +-- symbol-observable@1.0.4
+554 silly currentTree +-- table@3.8.3
+554 silly currentTree | +-- ansi-regex@3.0.0
+554 silly currentTree | +-- is-fullwidth-code-point@2.0.0
+554 silly currentTree | +-- string-width@2.1.1
+554 silly currentTree | `-- strip-ansi@4.0.0
+554 silly currentTree +-- text-table@0.2.0
+554 silly currentTree +-- through@2.3.8
+554 silly currentTree +-- to-fast-properties@1.0.3
+554 silly currentTree +-- traverse@0.3.9
+554 silly currentTree +-- trim-right@1.0.1
+554 silly currentTree +-- tryit@1.0.3
+554 silly currentTree +-- type-check@0.3.2
+554 silly currentTree +-- typedarray@0.0.6
+554 silly currentTree +-- ua-parser-js@0.7.14
+554 silly currentTree +-- uglify-js@1.3.4
+554 silly currentTree +-- unzip@0.1.11
+554 silly currentTree | +-- isarray@0.0.1
+554 silly currentTree | +-- readable-stream@1.0.34
+554 silly currentTree | `-- string_decoder@0.10.31
+554 silly currentTree +-- user-home@2.0.0
+554 silly currentTree +-- useragent@1.1.0
+554 silly currentTree | +-- request@2.9.202
+554 silly currentTree | `-- semver@1.0.14
+554 silly currentTree +-- util-deprecate@1.0.2
+554 silly currentTree +-- uuid@3.1.0
+554 silly currentTree +-- validate-npm-package-license@3.0.1
+554 silly currentTree +-- warning@3.0.0
+554 silly currentTree +-- whatwg-fetch@2.0.3
+554 silly currentTree +-- wordwrap@0.0.3
+554 silly currentTree +-- wrappy@1.0.2
+554 silly currentTree +-- write@0.2.1
+554 silly currentTree | `-- mkdirp@0.5.1
+554 silly currentTree +-- xoauth2@1.2.0
+554 silly currentTree +-- xtend@4.0.1
+554 silly currentTree `-- yamlparser@0.0.2
+555 silly idealTree property-app@
+555 silly idealTree +-- acorn-jsx@3.0.1
+555 silly idealTree | `-- acorn@3.3.0
+555 silly idealTree +-- acorn@5.1.2
+555 silly idealTree +-- add-dom-event-listener@1.0.2
+555 silly idealTree +-- ajv-keywords@1.5.1
+555 silly idealTree +-- ajv@4.11.8
+555 silly idealTree +-- ansi-escapes@1.4.0
+555 silly idealTree +-- ansi-regex@2.1.1
+555 silly idealTree +-- ansi-styles@2.2.1
+555 silly idealTree +-- antd@2.13.4
+555 silly idealTree +-- argparse@1.0.9
+555 silly idealTree +-- array-tree-filter@1.0.1
+555 silly idealTree +-- array-union@1.0.2
+555 silly idealTree +-- array-uniq@1.0.3
+555 silly idealTree +-- array.prototype.find@2.0.4
+555 silly idealTree +-- arrify@1.0.1
+555 silly idealTree +-- asap@2.0.6
+555 silly idealTree +-- async-validator@1.8.1
+555 silly idealTree +-- async@2.5.0
+555 silly idealTree +-- attr-accept@1.1.0
+555 silly idealTree +-- babel-code-frame@6.26.0
+555 silly idealTree +-- babel-core@6.26.0
+555 silly idealTree | `-- debug@2.6.9
+555 silly idealTree +-- babel-eslint@7.2.3
+555 silly idealTree +-- babel-generator@6.26.0
+555 silly idealTree +-- babel-helpers@6.24.1
+555 silly idealTree +-- babel-messages@6.23.0
+555 silly idealTree +-- babel-register@6.26.0
+555 silly idealTree | `-- mkdirp@0.5.1
+555 silly idealTree +-- babel-runtime@6.26.0
+555 silly idealTree +-- babel-template@6.26.0
+555 silly idealTree +-- babel-traverse@6.26.0
+555 silly idealTree | `-- debug@2.6.9
+555 silly idealTree +-- babel-types@6.26.0
+555 silly idealTree +-- babylon@6.18.0
+555 silly idealTree +-- balanced-match@1.0.0
+555 silly idealTree +-- bcrypt@0.8.7
+555 silly idealTree +-- binary@0.3.0
+555 silly idealTree +-- bindings@1.2.1
+555 silly idealTree +-- boolbase@1.0.0
+555 silly idealTree +-- brace-expansion@1.1.8
+555 silly idealTree +-- bson@0.1.5
+555 silly idealTree +-- buffers@0.1.1
+555 silly idealTree +-- builtin-modules@1.1.1
+555 silly idealTree +-- caller-path@0.1.0
+555 silly idealTree +-- callsites@0.2.0
+555 silly idealTree +-- can-use-dom@0.1.0
+555 silly idealTree +-- chain-function@1.0.0
+555 silly idealTree +-- chainsaw@0.1.0
+555 silly idealTree +-- chalk@1.1.3
+555 silly idealTree +-- cheerio@0.22.0
+555 silly idealTree +-- circular-json@0.3.3
+555 silly idealTree +-- classnames@2.2.5
+555 silly idealTree +-- clean-css@0.8.2
+555 silly idealTree +-- cli-cursor@1.0.2
+555 silly idealTree +-- cli-width@2.2.0
+555 silly idealTree +-- co@4.6.0
+555 silly idealTree +-- code-point-at@1.1.0
+555 silly idealTree +-- coffee-script@1.4.0
+555 silly idealTree +-- colors@0.6.2
+555 silly idealTree +-- component-classes@1.2.6
+555 silly idealTree +-- component-indexof@0.0.3
+555 silly idealTree +-- concat-map@0.0.1
+555 silly idealTree +-- concat-stream@1.6.0
+555 silly idealTree +-- connect@1.9.2
+555 silly idealTree +-- contains-path@0.1.0
+555 silly idealTree +-- convert-source-map@1.5.0
+555 silly idealTree +-- core-js@2.5.1
+555 silly idealTree +-- core-util-is@1.0.2
+555 silly idealTree +-- create-react-class@15.6.2
+555 silly idealTree +-- css-animation@1.4.1
+555 silly idealTree +-- css-select@1.2.0
+555 silly idealTree +-- css-what@2.1.0
+555 silly idealTree +-- cssom@0.2.5
+555 silly idealTree +-- d@1.0.0
+555 silly idealTree +-- d3-array@0.7.1
+555 silly idealTree +-- d3-axis@0.3.2
+555 silly idealTree | +-- d3-collection@0.2.0
+555 silly idealTree | +-- d3-interpolate@0.8.3
+555 silly idealTree | `-- d3-scale@0.7.2
+555 silly idealTree +-- d3-collection@0.1.2
+555 silly idealTree +-- d3-color@0.4.2
+555 silly idealTree +-- d3-dispatch@0.4.4
+555 silly idealTree +-- d3-ease@0.7.0
+555 silly idealTree +-- d3-format@0.5.1
+555 silly idealTree +-- d3-interpolate@0.7.0
+555 silly idealTree +-- d3-path@0.1.5
+555 silly idealTree +-- d3-scale@0.6.4
+555 silly idealTree +-- d3-selection@0.7.3
+555 silly idealTree +-- d3-shape@0.5.1
+555 silly idealTree +-- d3-time-format@0.3.2
+555 silly idealTree +-- d3-time@0.2.6
+555 silly idealTree +-- d3-timer@0.4.4
+555 silly idealTree +-- d3-transition@0.2.10
+555 silly idealTree | `-- d3-interpolate@0.8.3
+555 silly idealTree +-- d3@3.5.17
+555 silly idealTree +-- damerau-levenshtein@1.0.4
+555 silly idealTree +-- debug@3.1.0
+555 silly idealTree +-- deep-is@0.1.3
+555 silly idealTree +-- define-properties@1.1.2
+555 silly idealTree +-- del@2.2.2
+555 silly idealTree +-- detect-indent@4.0.0
+555 silly idealTree +-- doctrine@2.0.0
+555 silly idealTree +-- dom-align@1.6.5
+555 silly idealTree +-- dom-closest@0.2.0
+555 silly idealTree +-- dom-helpers@3.2.1
+555 silly idealTree +-- dom-matches@2.0.0
+555 silly idealTree +-- dom-scroll-into-view@1.2.1
+555 silly idealTree +-- dom-serializer@0.1.0
+555 silly idealTree | `-- domelementtype@1.1.3
+555 silly idealTree +-- domelementtype@1.3.0
+555 silly idealTree +-- domhandler@2.4.1
+555 silly idealTree +-- domutils@1.5.1
+555 silly idealTree +-- draft-js@0.10.3
+555 silly idealTree +-- encoding@0.1.12
+555 silly idealTree +-- enquire.js@2.1.6
+555 silly idealTree +-- entities@1.1.1
+555 silly idealTree +-- enzyme@2.9.1
+555 silly idealTree +-- error-ex@1.3.1
+555 silly idealTree +-- es-abstract@1.9.0
+555 silly idealTree +-- es-to-primitive@1.1.1
+555 silly idealTree +-- es5-ext@0.10.30
+555 silly idealTree +-- es6-iterator@2.0.1
+555 silly idealTree +-- es6-map@0.1.5
+555 silly idealTree +-- es6-set@0.1.5
+555 silly idealTree +-- es6-symbol@3.1.1
+555 silly idealTree +-- es6-weak-map@2.0.2
+555 silly idealTree +-- escape-string-regexp@1.0.5
+555 silly idealTree +-- escope@3.6.0
+555 silly idealTree +-- eslint-config-airbnb-base@10.0.1
+555 silly idealTree +-- eslint-config-airbnb@13.0.0
+555 silly idealTree +-- eslint-import-resolver-meteor@0.3.4
+555 silly idealTree +-- eslint-import-resolver-node@0.3.1
+555 silly idealTree | `-- debug@2.6.9
+555 silly idealTree +-- eslint-module-utils@2.1.1
+555 silly idealTree | `-- debug@2.6.9
+555 silly idealTree +-- eslint-plugin-import@2.7.0
+555 silly idealTree | +-- debug@2.6.9
+555 silly idealTree | `-- doctrine@1.5.0
+555 silly idealTree +-- eslint-plugin-jsx-a11y@3.0.2
+555 silly idealTree +-- eslint-plugin-meteor@4.1.6
+555 silly idealTree | `-- path-exists@3.0.0
+555 silly idealTree +-- eslint-plugin-react@6.10.3
+555 silly idealTree | `-- doctrine@1.5.0
+555 silly idealTree +-- eslint@3.19.0
+555 silly idealTree | +-- debug@2.6.9
+555 silly idealTree | +-- mkdirp@0.5.1
+555 silly idealTree | `-- progress@1.1.8
+555 silly idealTree +-- espree@3.5.1
+555 silly idealTree +-- esprima@4.0.0
+555 silly idealTree +-- esquery@1.0.0
+555 silly idealTree +-- esrecurse@4.2.0
+555 silly idealTree +-- estraverse@4.2.0
+555 silly idealTree +-- esutils@2.0.2
+555 silly idealTree +-- event-emitter@0.3.5
+555 silly idealTree +-- eventlistener@0.0.1
+555 silly idealTree +-- exit-hook@1.1.1
+555 silly idealTree +-- fast-levenshtein@2.0.6
+555 silly idealTree +-- faye-websocket@0.4.0
+555 silly idealTree +-- fbjs@0.8.16
+555 silly idealTree | `-- core-js@1.2.7
+555 silly idealTree +-- figures@1.7.0
+555 silly idealTree +-- file-entry-cache@2.0.0
+555 silly idealTree +-- find-up@1.1.2
+555 silly idealTree +-- flat-cache@1.3.0
+555 silly idealTree +-- foreach@2.0.5
+555 silly idealTree +-- formidable@1.0.17
+555 silly idealTree +-- fs.realpath@1.0.0
+555 silly idealTree +-- fstream@0.1.31
+555 silly idealTree | +-- graceful-fs@3.0.11
+555 silly idealTree | `-- mkdirp@0.5.1
+555 silly idealTree +-- function-bind@1.1.1
+555 silly idealTree +-- function.prototype.name@1.0.3
+555 silly idealTree +-- generate-function@2.0.0
+555 silly idealTree +-- generate-object-property@1.2.0
+555 silly idealTree +-- geoip-lite@1.2.1
+555 silly idealTree | `-- colors@1.1.2
+555 silly idealTree +-- glob@7.1.2
+555 silly idealTree +-- globals@9.18.0
+555 silly idealTree +-- globby@5.0.0
+555 silly idealTree +-- graceful-fs@4.1.11
+555 silly idealTree +-- gridle@2.0.48
+555 silly idealTree +-- gsap@1.20.3
+555 silly idealTree +-- gzippo@0.1.7
+555 silly idealTree +-- hammerjs@2.0.8
+555 silly idealTree +-- handlebars@1.0.7
+555 silly idealTree | `-- uglify-js@1.2.6
+555 silly idealTree +-- has-ansi@2.0.0
+555 silly idealTree +-- has@1.0.1
+555 silly idealTree +-- history@3.3.0
+555 silly idealTree +-- hoist-non-react-statics@1.2.0
+555 silly idealTree +-- home-or-tmp@2.0.0
+555 silly idealTree +-- hosted-git-info@2.5.0
+555 silly idealTree +-- htmlparser2@3.9.2
+555 silly idealTree +-- http-proxy@0.8.5
+555 silly idealTree +-- iconv-lite@0.4.19
+555 silly idealTree +-- ignore@3.3.5
+555 silly idealTree +-- immutable@3.7.6
+555 silly idealTree +-- imurmurhash@0.1.4
+555 silly idealTree +-- indexof@0.0.1
+555 silly idealTree +-- inflight@1.0.6
+555 silly idealTree +-- inherits@2.0.3
+555 silly idealTree +-- inquirer@0.12.0
+555 silly idealTree +-- interpret@1.0.4
+555 silly idealTree +-- invariant@2.2.2
+555 silly idealTree +-- is-arrayish@0.2.1
+555 silly idealTree +-- is-builtin-module@1.0.0
+555 silly idealTree +-- is-callable@1.1.3
+555 silly idealTree +-- is-date-object@1.0.1
+555 silly idealTree +-- is-finite@1.0.2
+555 silly idealTree +-- is-fullwidth-code-point@1.0.0
+555 silly idealTree +-- is-my-json-valid@2.16.1
+555 silly idealTree +-- is-path-cwd@1.0.0
+555 silly idealTree +-- is-path-in-cwd@1.0.0
+555 silly idealTree +-- is-path-inside@1.0.0
+555 silly idealTree +-- is-property@1.0.2
+555 silly idealTree +-- is-regex@1.0.4
+555 silly idealTree +-- is-resolvable@1.0.0
+555 silly idealTree +-- is-stream@1.1.0
+555 silly idealTree +-- is-subset@0.1.1
+555 silly idealTree +-- is-symbol@1.0.1
+555 silly idealTree +-- isarray@1.0.0
+555 silly idealTree +-- isomorphic-fetch@2.2.1
+555 silly idealTree +-- js-tokens@3.0.2
+555 silly idealTree +-- js-yaml@3.10.0
+555 silly idealTree +-- jsesc@1.3.0
+555 silly idealTree +-- json-stable-stringify@1.0.1
+555 silly idealTree +-- json2mq@0.2.0
+555 silly idealTree +-- json5@0.5.1
+555 silly idealTree +-- jsonify@0.0.0
+555 silly idealTree +-- jsonpointer@4.0.1
+555 silly idealTree +-- jsx-ast-utils@1.4.1
+555 silly idealTree +-- keypress@0.1.0
+555 silly idealTree +-- lazy@1.0.11
+555 silly idealTree +-- less@1.3.1
+555 silly idealTree +-- levn@0.3.0
+555 silly idealTree +-- load-json-file@2.0.0
+555 silly idealTree +-- locate-path@2.0.0
+555 silly idealTree | `-- path-exists@3.0.0
+555 silly idealTree +-- lodash-es@4.17.4
+555 silly idealTree +-- lodash._getnative@3.9.1
+555 silly idealTree +-- lodash.assignin@4.2.0
+555 silly idealTree +-- lodash.bind@4.2.1
+555 silly idealTree +-- lodash.cond@4.5.2
+555 silly idealTree +-- lodash.debounce@4.0.8
+555 silly idealTree +-- lodash.defaults@4.2.0
+555 silly idealTree +-- lodash.filter@4.6.0
+555 silly idealTree +-- lodash.find@4.6.0
+555 silly idealTree +-- lodash.flatten@4.4.0
+555 silly idealTree +-- lodash.foreach@4.5.0
+555 silly idealTree +-- lodash.get@4.4.2
+555 silly idealTree +-- lodash.isarguments@3.1.0
+555 silly idealTree +-- lodash.isarray@3.0.4
+555 silly idealTree +-- lodash.keys@3.1.2
+555 silly idealTree +-- lodash.map@4.6.0
+555 silly idealTree +-- lodash.memoize@4.1.2
+555 silly idealTree +-- lodash.merge@4.6.0
+555 silly idealTree +-- lodash.pick@4.4.0
+555 silly idealTree +-- lodash.reduce@4.6.0
+555 silly idealTree +-- lodash.reject@4.6.0
+555 silly idealTree +-- lodash.some@4.6.0
+555 silly idealTree +-- lodash.throttle@4.1.1
+555 silly idealTree +-- lodash@4.17.4
+555 silly idealTree +-- loose-envify@1.3.1
+555 silly idealTree +-- mailcomposer@0.1.15
+555 silly idealTree +-- match-stream@0.0.2
+555 silly idealTree | +-- isarray@0.0.1
+555 silly idealTree | +-- readable-stream@1.0.34
+555 silly idealTree | `-- string_decoder@0.10.31
+555 silly idealTree +-- math-expression-evaluator@1.2.17
+555 silly idealTree +-- meteor-node-stubs@0.2.11
+555 silly idealTree | +-- asn1.js@4.9.0
+555 silly idealTree | +-- assert@1.4.1
+555 silly idealTree | +-- balanced-match@0.4.2
+555 silly idealTree | +-- base64-js@1.2.0
+555 silly idealTree | +-- Base64@0.2.1
+555 silly idealTree | +-- bn.js@4.11.6
+555 silly idealTree | +-- brace-expansion@1.1.7
+555 silly idealTree | +-- brorand@1.0.6
+555 silly idealTree | +-- browserify-aes@1.0.6
+555 silly idealTree | +-- browserify-cipher@1.0.0
+555 silly idealTree | +-- browserify-des@1.0.0
+555 silly idealTree | +-- browserify-rsa@4.0.1
+555 silly idealTree | +-- browserify-sign@4.0.0
+555 silly idealTree | +-- browserify-zlib@0.1.4
+555 silly idealTree | +-- buffer-xor@1.0.3
+555 silly idealTree | +-- buffer@4.9.1
+555 silly idealTree | +-- cipher-base@1.0.3
+555 silly idealTree | +-- concat-map@0.0.1
+555 silly idealTree | +-- console-browserify@1.1.0
+555 silly idealTree | +-- constants-browserify@1.0.0
+555 silly idealTree | +-- create-ecdh@4.0.0
+555 silly idealTree | +-- create-hash@1.1.2
+555 silly idealTree | +-- create-hmac@1.1.4
+555 silly idealTree | +-- crypto-browserify@3.11.0
+555 silly idealTree | +-- date-now@0.1.4
+555 silly idealTree | +-- des.js@1.0.0
+555 silly idealTree | +-- diffie-hellman@5.0.2
+555 silly idealTree | +-- domain-browser@1.1.7
+555 silly idealTree | +-- elliptic@6.3.2
+555 silly idealTree | +-- events@1.1.1
+555 silly idealTree | +-- evp_bytestokey@1.0.0
+555 silly idealTree | +-- fs.realpath@1.0.0
+555 silly idealTree | +-- glob@7.1.2
+555 silly idealTree | +-- hash.js@1.0.3
+555 silly idealTree | +-- http-browserify@1.7.0
+555 silly idealTree | +-- https-browserify@0.0.1
+555 silly idealTree | +-- ieee754@1.1.8
+555 silly idealTree | +-- indexof@0.0.1
+555 silly idealTree | +-- inflight@1.0.6
+555 silly idealTree | +-- inherits@2.0.1
+555 silly idealTree | +-- isarray@1.0.0
+555 silly idealTree | +-- miller-rabin@4.0.0
+555 silly idealTree | +-- minimalistic-assert@1.0.0
+555 silly idealTree | +-- minimatch@3.0.4
+555 silly idealTree | +-- once@1.4.0
+555 silly idealTree | +-- os-browserify@0.2.1
+555 silly idealTree | +-- pako@0.2.9
+555 silly idealTree | +-- parse-asn1@5.0.0
+555 silly idealTree | +-- path-browserify@0.0.0
+555 silly idealTree | +-- path-is-absolute@1.0.1
+555 silly idealTree | +-- pbkdf2@3.0.9
+555 silly idealTree | +-- process-nextick-args@1.0.7
+555 silly idealTree | +-- process@0.11.9
+555 silly idealTree | +-- public-encrypt@4.0.0
+555 silly idealTree | +-- punycode@1.4.1
+555 silly idealTree | +-- querystring-es3@0.2.1
+555 silly idealTree | +-- querystring@0.2.0
+555 silly idealTree | +-- randombytes@2.0.3
+555 silly idealTree | +-- readable-stream@2.2.10
+555 silly idealTree | +-- rimraf@2.6.1
+555 silly idealTree | +-- ripemd160@1.0.1
+555 silly idealTree | +-- safe-buffer@5.0.1
+555 silly idealTree | +-- sha.js@2.4.8
+555 silly idealTree | +-- stream-browserify@2.0.1
+555 silly idealTree | +-- string_decoder@1.0.1
+555 silly idealTree | +-- timers-browserify@1.4.2
+555 silly idealTree | +-- tty-browserify@0.0.0
+555 silly idealTree | +-- url@0.11.0
+555 silly idealTree | | `-- punycode@1.3.2
+555 silly idealTree | +-- util-deprecate@1.0.2
+555 silly idealTree | +-- util@0.10.3
+555 silly idealTree | +-- vm-browserify@0.0.4
+555 silly idealTree | `-- wrappy@1.0.2
+555 silly idealTree +-- mime@1.2.7
+555 silly idealTree +-- mimelib-noiconv@0.1.9
+555 silly idealTree +-- minimatch@3.0.4
+555 silly idealTree +-- minimist@0.0.8
+555 silly idealTree +-- mkdirp@0.3.5
+555 silly idealTree +-- moment@2.18.1
+555 silly idealTree +-- mongodb@1.1.11
+555 silly idealTree +-- ms@2.0.0
+555 silly idealTree +-- mute-stream@0.0.5
+555 silly idealTree +-- nan@2.3.5
+555 silly idealTree +-- natives@1.1.0
+555 silly idealTree +-- natural-compare@1.4.0
+555 silly idealTree +-- nib@0.8.2
+555 silly idealTree +-- node-fetch@1.7.3
+555 silly idealTree +-- node-uuid@1.3.3
+555 silly idealTree +-- normalize-package-data@2.4.0
+555 silly idealTree | `-- semver@5.4.1
+555 silly idealTree +-- nth-check@1.0.1
+555 silly idealTree +-- number-is-nan@1.0.1
+555 silly idealTree +-- object-assign@4.1.1
+555 silly idealTree +-- object-is@1.0.1
+555 silly idealTree +-- object-keys@1.0.11
+555 silly idealTree +-- object.assign@4.0.4
+555 silly idealTree +-- object.entries@1.0.4
+555 silly idealTree +-- object.values@1.0.4
+555 silly idealTree +-- omit.js@1.0.0
+555 silly idealTree +-- once@1.4.0
+555 silly idealTree +-- onetime@1.1.0
+555 silly idealTree +-- optimist@0.3.5
+555 silly idealTree +-- optionator@0.8.2
+555 silly idealTree | `-- wordwrap@1.0.0
+555 silly idealTree +-- os-homedir@1.0.2
+555 silly idealTree +-- os-tmpdir@1.0.2
+555 silly idealTree +-- over@0.0.5
+555 silly idealTree +-- p-limit@1.1.0
+555 silly idealTree +-- p-locate@2.0.0
+555 silly idealTree +-- parse-json@2.2.0
+555 silly idealTree +-- path-exists@2.1.0
+555 silly idealTree +-- path-is-absolute@1.0.1
+555 silly idealTree +-- path-is-inside@1.0.2
+555 silly idealTree +-- path-parse@1.0.5
+555 silly idealTree +-- path-type@2.0.0
+555 silly idealTree +-- performance-now@2.1.0
+555 silly idealTree +-- pify@2.3.0
+555 silly idealTree +-- pinkie-promise@2.0.1
+555 silly idealTree +-- pinkie@2.0.4
+555 silly idealTree +-- pkg-dir@1.0.0
+555 silly idealTree +-- pkginfo@0.2.3
+555 silly idealTree +-- pluralize@1.2.1
+555 silly idealTree +-- prelude-ls@1.1.2
+555 silly idealTree +-- private@0.1.7
+555 silly idealTree +-- process-nextick-args@1.0.7
+555 silly idealTree +-- progress@0.0.5
+555 silly idealTree +-- promise@7.3.1
+555 silly idealTree +-- prop-types@15.6.0
+555 silly idealTree +-- pullstream@0.4.1
+555 silly idealTree | +-- isarray@0.0.1
+555 silly idealTree | +-- readable-stream@1.0.34
+555 silly idealTree | `-- string_decoder@0.10.31
+555 silly idealTree +-- qs@6.5.1
+555 silly idealTree +-- query-selector@1.0.9
+555 silly idealTree +-- query-string@4.3.4
+555 silly idealTree +-- raf@3.4.0
+555 silly idealTree +-- rai@0.1.12
+555 silly idealTree +-- rc-align@2.3.4
+555 silly idealTree +-- rc-animate@2.4.1
+555 silly idealTree +-- rc-calendar@9.0.4
+555 silly idealTree +-- rc-cascader@0.11.6
+555 silly idealTree +-- rc-checkbox@2.0.3
+555 silly idealTree +-- rc-collapse@1.7.6
+555 silly idealTree +-- rc-dialog@6.5.11
+555 silly idealTree +-- rc-dropdown@1.5.1
+555 silly idealTree +-- rc-editor-core@0.7.8
+555 silly idealTree +-- rc-editor-mention@0.6.13
+555 silly idealTree +-- rc-form@1.4.8
+555 silly idealTree +-- rc-hammerjs@0.6.9
+555 silly idealTree +-- rc-input-number@3.6.7
+555 silly idealTree +-- rc-menu@5.0.13
+555 silly idealTree +-- rc-notification@2.0.6
+555 silly idealTree +-- rc-pagination@1.12.9
+555 silly idealTree +-- rc-progress@2.2.2
+555 silly idealTree +-- rc-rate@2.1.1
+555 silly idealTree +-- rc-select@6.9.3
+555 silly idealTree +-- rc-slider@8.3.1
+555 silly idealTree +-- rc-steps@2.5.2
+555 silly idealTree +-- rc-switch@1.5.3
+555 silly idealTree +-- rc-table@5.6.12
+555 silly idealTree | `-- shallowequal@0.2.2
+555 silly idealTree +-- rc-tabs@9.1.4
+555 silly idealTree +-- rc-time-picker@2.4.1
+555 silly idealTree +-- rc-tooltip@3.4.9
+555 silly idealTree +-- rc-touchable@1.2.3
+555 silly idealTree +-- rc-tree-select@1.10.9
+555 silly idealTree +-- rc-tree@1.7.7
+555 silly idealTree +-- rc-trigger@1.11.4
+555 silly idealTree +-- rc-upload@2.4.3
+555 silly idealTree | `-- warning@2.1.0
+555 silly idealTree +-- rc-util@4.1.0
+555 silly idealTree | `-- shallowequal@0.2.2
+555 silly idealTree +-- react-addons-pure-render-mixin@15.6.2
+555 silly idealTree +-- react-addons-transition-group@15.6.2
+555 silly idealTree +-- react-d3-basic@1.6.11
+555 silly idealTree +-- react-d3-core@1.3.9
+555 silly idealTree +-- react-d3-shape@0.2.24
+555 silly idealTree +-- react-dom@15.6.2
+555 silly idealTree +-- react-faux-dom@2.7.1
+555 silly idealTree +-- react-lazy-load@3.0.12
+555 silly idealTree +-- react-redux@5.0.6
+555 silly idealTree | `-- hoist-non-react-statics@2.3.1
+555 silly idealTree +-- react-resize-detector@0.3.3
+555 silly idealTree +-- react-router@3.2.0
+555 silly idealTree +-- react-slick@0.15.4
+555 silly idealTree +-- react-smooth@0.1.20
+555 silly idealTree +-- react-transition-group@1.2.1
+555 silly idealTree +-- react@15.6.2
+555 silly idealTree +-- read-pkg-up@2.0.0
+555 silly idealTree | `-- find-up@2.1.0
+555 silly idealTree +-- read-pkg@2.0.0
+555 silly idealTree +-- readable-stream@2.3.3
+555 silly idealTree +-- readline2@1.0.1
+555 silly idealTree +-- recharts-scale@0.2.1
+555 silly idealTree +-- recharts@0.20.8
+555 silly idealTree | +-- core-js@2.4.1
+555 silly idealTree | +-- d3-array@1.2.1
+555 silly idealTree | +-- d3-collection@1.0.4
+555 silly idealTree | +-- d3-color@1.0.3
+555 silly idealTree | +-- d3-format@1.2.0
+555 silly idealTree | +-- d3-interpolate@1.1.5
+555 silly idealTree | +-- d3-path@1.0.5
+555 silly idealTree | +-- d3-scale@1.0.4
+555 silly idealTree | +-- d3-shape@1.0.4
+555 silly idealTree | +-- d3-time-format@2.0.5
+555 silly idealTree | `-- d3-time@1.0.7
+555 silly idealTree +-- rechoir@0.6.2
+555 silly idealTree +-- reduce-css-calc@1.3.0
+555 silly idealTree | `-- balanced-match@0.4.2
+555 silly idealTree +-- reduce-function-call@1.0.2
+555 silly idealTree | `-- balanced-match@0.4.2
+555 silly idealTree +-- redux@3.7.2
+555 silly idealTree +-- regenerator-runtime@0.11.0
+555 silly idealTree +-- repeating@2.0.1
+555 silly idealTree +-- request@2.12.0
+555 silly idealTree | +-- form-data@0.0.3
+555 silly idealTree | | +-- async@0.1.9
+555 silly idealTree | | `-- combined-stream@0.0.3
+555 silly idealTree | |   `-- delayed-stream@0.0.5
+555 silly idealTree | `-- mime@1.2.7
+555 silly idealTree +-- require-uncached@1.0.3
+555 silly idealTree +-- resolve-from@1.0.1
+555 silly idealTree +-- resolve@1.4.0
+555 silly idealTree +-- restore-cursor@1.0.1
+555 silly idealTree +-- rimraf@2.6.2
+555 silly idealTree +-- run-async@0.1.0
+555 silly idealTree +-- rx-lite@3.1.2
+555 silly idealTree +-- safe-buffer@5.1.1
+555 silly idealTree +-- semver@1.1.0
+555 silly idealTree +-- setimmediate@1.0.5
+555 silly idealTree +-- shallow-equal@1.0.0
+555 silly idealTree +-- shallowequal@1.0.2
+555 silly idealTree +-- shelljs@0.7.8
+555 silly idealTree +-- simplesmtp@0.1.25
+555 silly idealTree +-- slash@1.0.0
+555 silly idealTree +-- slice-ansi@0.0.4
+555 silly idealTree +-- slice-stream@1.0.0
+555 silly idealTree | +-- isarray@0.0.1
+555 silly idealTree | +-- readable-stream@1.0.34
+555 silly idealTree | `-- string_decoder@0.10.31
+555 silly idealTree +-- slick-carousel@1.8.1
+555 silly idealTree +-- sockjs@0.3.4
+555 silly idealTree +-- source-map-support@0.4.18
+555 silly idealTree +-- source-map@0.5.7
+555 silly idealTree +-- spdx-correct@1.0.2
+555 silly idealTree +-- spdx-expression-parse@1.0.4
+555 silly idealTree +-- spdx-license-ids@1.2.2
+555 silly idealTree +-- sprintf-js@1.0.3
+555 silly idealTree +-- stream-buffers@0.2.3
+555 silly idealTree +-- strict-uri-encode@1.1.0
+555 silly idealTree +-- string_decoder@1.0.3
+555 silly idealTree +-- string-convert@0.2.1
+555 silly idealTree +-- string-width@1.0.2
+555 silly idealTree +-- strip-ansi@3.0.1
+555 silly idealTree +-- strip-bom@3.0.0
+555 silly idealTree +-- strip-json-comments@2.0.1
+555 silly idealTree +-- style-attr@1.3.0
+555 silly idealTree +-- stylus@0.30.1
+555 silly idealTree +-- supports-color@2.0.0
+555 silly idealTree +-- symbol-observable@1.0.4
+555 silly idealTree +-- table@3.8.3
+555 silly idealTree | +-- ansi-regex@3.0.0
+555 silly idealTree | +-- is-fullwidth-code-point@2.0.0
+555 silly idealTree | +-- string-width@2.1.1
+555 silly idealTree | `-- strip-ansi@4.0.0
+555 silly idealTree +-- text-table@0.2.0
+555 silly idealTree +-- through@2.3.8
+555 silly idealTree +-- to-fast-properties@1.0.3
+555 silly idealTree +-- traverse@0.3.9
+555 silly idealTree +-- trim-right@1.0.1
+555 silly idealTree +-- tryit@1.0.3
+555 silly idealTree +-- type-check@0.3.2
+555 silly idealTree +-- typedarray@0.0.6
+555 silly idealTree +-- ua-parser-js@0.7.14
+555 silly idealTree +-- uglify-js@1.3.4
+555 silly idealTree +-- unzip@0.1.11
+555 silly idealTree | +-- isarray@0.0.1
+555 silly idealTree | +-- readable-stream@1.0.34
+555 silly idealTree | `-- string_decoder@0.10.31
+555 silly idealTree +-- user-home@2.0.0
+555 silly idealTree +-- useragent@1.1.0
+555 silly idealTree | +-- request@2.9.202
+555 silly idealTree | `-- semver@1.0.14
+555 silly idealTree +-- util-deprecate@1.0.2
+555 silly idealTree +-- uuid@3.1.0
+555 silly idealTree +-- validate-npm-package-license@3.0.1
+555 silly idealTree +-- warning@3.0.0
+555 silly idealTree +-- whatwg-fetch@2.0.3
+555 silly idealTree +-- wordwrap@0.0.3
+555 silly idealTree +-- wrappy@1.0.2
+555 silly idealTree +-- write@0.2.1
+555 silly idealTree | `-- mkdirp@0.5.1
+555 silly idealTree +-- xoauth2@1.2.0
+555 silly idealTree +-- xtend@4.0.1
+555 silly idealTree `-- yamlparser@0.0.2
+556 silly generateActionsToTake Starting
+557 silly install generateActionsToTake
+558 silly generateActionsToTake Finishing
+559 silly diffTrees action count 3
+560 silly diffTrees add bindings@1.2.1
+561 silly diffTrees add nan@2.3.5
+562 silly diffTrees add bcrypt@0.8.7
+563 silly decomposeActions action count 24
+564 silly decomposeActions fetch bindings@1.2.1
+565 silly decomposeActions extract bindings@1.2.1
+566 silly decomposeActions test bindings@1.2.1
+567 silly decomposeActions preinstall bindings@1.2.1
+568 silly decomposeActions build bindings@1.2.1
+569 silly decomposeActions install bindings@1.2.1
+570 silly decomposeActions postinstall bindings@1.2.1
+571 silly decomposeActions finalize bindings@1.2.1
+572 silly decomposeActions fetch nan@2.3.5
+573 silly decomposeActions extract nan@2.3.5
+574 silly decomposeActions test nan@2.3.5
+575 silly decomposeActions preinstall nan@2.3.5
+576 silly decomposeActions build nan@2.3.5
+577 silly decomposeActions install nan@2.3.5
+578 silly decomposeActions postinstall nan@2.3.5
+579 silly decomposeActions finalize nan@2.3.5
+580 silly decomposeActions fetch bcrypt@0.8.7
+581 silly decomposeActions extract bcrypt@0.8.7
+582 silly decomposeActions test bcrypt@0.8.7
+583 silly decomposeActions preinstall bcrypt@0.8.7
+584 silly decomposeActions build bcrypt@0.8.7
+585 silly decomposeActions install bcrypt@0.8.7
+586 silly decomposeActions postinstall bcrypt@0.8.7
+587 silly decomposeActions finalize bcrypt@0.8.7
+588 silly runTopLevelLifecycles Starting
+589 silly executeActions Starting
+590 silly install executeActions
+591 silly doSerial global-install 0
+592 silly doParallel fetch 3
+593 verbose correctMkdir C:\Users\ishaq\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+594 verbose lock using C:\Users\ishaq\AppData\Roaming\npm-cache\_locks\staging-3e775c3a37463ec8.lock for F:\git\property-app\node_modules\.staging
+595 silly doParallel extract 3
+596 silly extract bindings@1.2.1
+597 silly extract nan@2.3.5
+598 silly extract bcrypt@0.8.7
+599 verbose unbuild node_modules\.staging\bcrypt-14a189b6
+600 verbose unbuild node_modules\.staging\nan-e8e3237f
+601 verbose unbuild node_modules\.staging\bindings-1372576d
+602 silly gentlyRm F:\git\property-app\node_modules\.staging\bcrypt-14a189b6 is being purged from base F:\git\property-app
+603 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\bcrypt-14a189b6
+604 silly gentlyRm F:\git\property-app\node_modules\.staging\nan-e8e3237f is being purged from base F:\git\property-app
+605 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\nan-e8e3237f
+606 silly gentlyRm F:\git\property-app\node_modules\.staging\bindings-1372576d is being purged from base F:\git\property-app
+607 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\bindings-1372576d
+608 verbose tar unpack C:\Users\ishaq\AppData\Roaming\npm-cache\bcrypt\0.8.7\package.tgz
+609 verbose tar unpacking to F:\git\property-app\node_modules\.staging\bcrypt-14a189b6
+610 silly gentlyRm F:\git\property-app\node_modules\.staging\bcrypt-14a189b6 is being purged
+611 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\bcrypt-14a189b6
+612 verbose tar unpack C:\Users\ishaq\AppData\Roaming\npm-cache\nan\2.3.5\package.tgz
+613 verbose tar unpacking to F:\git\property-app\node_modules\.staging\nan-e8e3237f
+614 silly gentlyRm F:\git\property-app\node_modules\.staging\nan-e8e3237f is being purged
+615 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\nan-e8e3237f
+616 verbose tar unpack C:\Users\ishaq\AppData\Roaming\npm-cache\bindings\1.2.1\package.tgz
+617 verbose tar unpacking to F:\git\property-app\node_modules\.staging\bindings-1372576d
+618 silly gentlyRm F:\git\property-app\node_modules\.staging\bindings-1372576d is being purged
+619 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\bindings-1372576d
+620 silly gunzTarPerm modes [ '777', '666' ]
+621 silly gunzTarPerm modes [ '777', '666' ]
+622 silly gunzTarPerm modes [ '777', '666' ]
+623 silly gunzTarPerm extractEntry package.json
+624 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+625 silly gunzTarPerm extractEntry package.json
+626 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+627 silly gunzTarPerm extractEntry package.json
+628 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+629 silly gunzTarPerm extractEntry .npmignore
+630 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+631 silly gunzTarPerm extractEntry README.md
+632 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+633 silly gunzTarPerm extractEntry README.md
+634 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+635 silly gunzTarPerm extractEntry README.md
+636 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+637 silly gunzTarPerm extractEntry bindings.js
+638 silly gunzTarPerm modified mode [ 'bindings.js', 420, 438 ]
+639 silly gunzTarPerm extractEntry include_dirs.js
+640 silly gunzTarPerm modified mode [ 'include_dirs.js', 436, 438 ]
+641 silly gunzTarPerm extractEntry nan_converters.h
+642 silly gunzTarPerm modified mode [ 'nan_converters.h', 436, 438 ]
+643 silly gunzTarPerm extractEntry LICENSE.md
+644 silly gunzTarPerm modified mode [ 'LICENSE.md', 436, 438 ]
+645 silly gunzTarPerm extractEntry doc/node_misc.md
+646 silly gunzTarPerm modified mode [ 'doc/node_misc.md', 436, 438 ]
+647 silly gunzTarPerm extractEntry LICENSE
+648 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+649 silly gunzTarPerm extractEntry bcrypt.js
+650 silly gunzTarPerm modified mode [ 'bcrypt.js', 420, 438 ]
+651 silly gunzTarPerm extractEntry Makefile
+652 silly gunzTarPerm modified mode [ 'Makefile', 420, 438 ]
+653 silly gunzTarPerm extractEntry .travis.yml
+654 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+655 silly gunzTarPerm extractEntry CHANGELOG.md
+656 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+657 silly gunzTarPerm extractEntry binding.gyp
+658 silly gunzTarPerm modified mode [ 'binding.gyp', 420, 438 ]
+659 silly gunzTarPerm extractEntry examples/async_compare.js
+660 silly gunzTarPerm modified mode [ 'examples/async_compare.js', 420, 438 ]
+661 silly gunzTarPerm extractEntry examples/forever_gen_salt.js
+662 silly gunzTarPerm modified mode [ 'examples/forever_gen_salt.js', 420, 438 ]
+663 silly gunzTarPerm extractEntry test/async.js
+664 silly gunzTarPerm modified mode [ 'test/async.js', 420, 438 ]
+665 silly gunzTarPerm extractEntry test/repetitions.js
+666 silly gunzTarPerm modified mode [ 'test/repetitions.js', 420, 438 ]
+667 silly gunzTarPerm extractEntry test/sync.js
+668 silly gunzTarPerm modified mode [ 'test/sync.js', 420, 438 ]
+669 silly gunzTarPerm extractEntry ISSUE_TEMPLATE.md
+670 silly gunzTarPerm modified mode [ 'ISSUE_TEMPLATE.md', 420, 438 ]
+671 silly gunzTarPerm extractEntry src/bcrypt.cc
+672 silly gunzTarPerm modified mode [ 'src/bcrypt.cc', 420, 438 ]
+673 silly gunzTarPerm extractEntry src/bcrypt_node.cc
+674 silly gunzTarPerm modified mode [ 'src/bcrypt_node.cc', 420, 438 ]
+675 silly gunzTarPerm extractEntry src/blowfish.cc
+676 silly gunzTarPerm modified mode [ 'src/blowfish.cc', 420, 438 ]
+677 silly gunzTarPerm extractEntry src/node_blf.h
+678 silly gunzTarPerm modified mode [ 'src/node_blf.h', 420, 438 ]
+679 silly gunzTarPerm extractEntry werker.yml
+680 silly gunzTarPerm modified mode [ 'werker.yml', 420, 438 ]
+681 silly gunzTarPerm extractEntry doc/asyncworker.md
+682 silly gunzTarPerm modified mode [ 'doc/asyncworker.md', 436, 438 ]
+683 silly gunzTarPerm extractEntry doc/callback.md
+684 silly gunzTarPerm modified mode [ 'doc/callback.md', 436, 438 ]
+685 silly gunzTarPerm extractEntry doc/converters.md
+686 silly gunzTarPerm modified mode [ 'doc/converters.md', 436, 438 ]
+687 silly gunzTarPerm extractEntry doc/errors.md
+688 silly gunzTarPerm modified mode [ 'doc/errors.md', 436, 438 ]
+689 silly gunzTarPerm extractEntry doc/maybe_types.md
+690 silly gunzTarPerm modified mode [ 'doc/maybe_types.md', 436, 438 ]
+691 silly gunzTarPerm extractEntry doc/methods.md
+692 silly gunzTarPerm modified mode [ 'doc/methods.md', 436, 438 ]
+693 silly gunzTarPerm extractEntry doc/new.md
+694 silly gunzTarPerm modified mode [ 'doc/new.md', 436, 438 ]
+695 silly gentlyRm F:\git\property-app\node_modules\.staging\bindings-1372576d\node_modules is being purged
+696 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\bindings-1372576d\node_modules
+697 silly gunzTarPerm extractEntry doc/buffers.md
+698 silly gunzTarPerm modified mode [ 'doc/buffers.md', 436, 438 ]
+699 silly gunzTarPerm extractEntry doc/object_wrappers.md
+700 silly gunzTarPerm modified mode [ 'doc/object_wrappers.md', 436, 438 ]
+701 silly gunzTarPerm extractEntry doc/persistent.md
+702 silly gunzTarPerm modified mode [ 'doc/persistent.md', 436, 438 ]
+703 silly gunzTarPerm extractEntry doc/scopes.md
+704 silly gunzTarPerm modified mode [ 'doc/scopes.md', 436, 438 ]
+705 silly gunzTarPerm extractEntry doc/script.md
+706 silly gunzTarPerm modified mode [ 'doc/script.md', 436, 438 ]
+707 silly gunzTarPerm extractEntry doc/string_bytes.md
+708 silly gunzTarPerm modified mode [ 'doc/string_bytes.md', 436, 438 ]
+709 silly gunzTarPerm extractEntry doc/v8_internals.md
+710 silly gunzTarPerm modified mode [ 'doc/v8_internals.md', 436, 438 ]
+711 silly gunzTarPerm extractEntry doc/v8_misc.md
+712 silly gunzTarPerm modified mode [ 'doc/v8_misc.md', 436, 438 ]
+713 silly gunzTarPerm extractEntry nan.h
+714 silly gunzTarPerm modified mode [ 'nan.h', 436, 438 ]
+715 silly gunzTarPerm extractEntry nan_callbacks.h
+716 silly gunzTarPerm modified mode [ 'nan_callbacks.h', 436, 438 ]
+717 silly gunzTarPerm extractEntry nan_callbacks_12_inl.h
+718 silly gunzTarPerm modified mode [ 'nan_callbacks_12_inl.h', 436, 438 ]
+719 silly gunzTarPerm extractEntry nan_callbacks_pre_12_inl.h
+720 silly gunzTarPerm modified mode [ 'nan_callbacks_pre_12_inl.h', 436, 438 ]
+721 silly gunzTarPerm extractEntry nan_converters_43_inl.h
+722 silly gunzTarPerm modified mode [ 'nan_converters_43_inl.h', 436, 438 ]
+723 silly gunzTarPerm extractEntry nan_converters_pre_43_inl.h
+724 silly gunzTarPerm modified mode [ 'nan_converters_pre_43_inl.h', 436, 438 ]
+725 silly gunzTarPerm extractEntry nan_implementation_12_inl.h
+726 silly gunzTarPerm modified mode [ 'nan_implementation_12_inl.h', 436, 438 ]
+727 silly gunzTarPerm extractEntry nan_implementation_pre_12_inl.h
+728 silly gunzTarPerm modified mode [ 'nan_implementation_pre_12_inl.h', 436, 438 ]
+729 silly gunzTarPerm extractEntry nan_maybe_43_inl.h
+730 silly gunzTarPerm modified mode [ 'nan_maybe_43_inl.h', 436, 438 ]
+731 silly gunzTarPerm extractEntry nan_maybe_pre_43_inl.h
+732 silly gunzTarPerm modified mode [ 'nan_maybe_pre_43_inl.h', 436, 438 ]
+733 silly gunzTarPerm extractEntry nan_new.h
+734 silly gunzTarPerm modified mode [ 'nan_new.h', 436, 438 ]
+735 silly gunzTarPerm extractEntry nan_object_wrap.h
+736 silly gunzTarPerm modified mode [ 'nan_object_wrap.h', 436, 438 ]
+737 silly gunzTarPerm extractEntry nan_persistent_12_inl.h
+738 silly gunzTarPerm modified mode [ 'nan_persistent_12_inl.h', 436, 438 ]
+739 silly gunzTarPerm extractEntry nan_persistent_pre_12_inl.h
+740 silly gunzTarPerm modified mode [ 'nan_persistent_pre_12_inl.h', 436, 438 ]
+741 silly gunzTarPerm extractEntry nan_string_bytes.h
+742 silly gunzTarPerm modified mode [ 'nan_string_bytes.h', 436, 438 ]
+743 silly gunzTarPerm extractEntry nan_typedarray_contents.h
+744 silly gunzTarPerm modified mode [ 'nan_typedarray_contents.h', 436, 438 ]
+745 silly gunzTarPerm extractEntry nan_weak.h
+746 silly gunzTarPerm modified mode [ 'nan_weak.h', 436, 438 ]
+747 silly gunzTarPerm extractEntry CHANGELOG.md
+748 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 438 ]
+749 silly gunzTarPerm extractEntry tools/package.json
+750 silly gunzTarPerm modified mode [ 'tools/package.json', 436, 438 ]
+751 silly gunzTarPerm extractEntry tools/README.md
+752 silly gunzTarPerm modified mode [ 'tools/README.md', 436, 438 ]
+753 silly gunzTarPerm extractEntry tools/1to2.js
+754 silly gunzTarPerm modified mode [ 'tools/1to2.js', 509, 511 ]
+755 silly gentlyRm F:\git\property-app\node_modules\.staging\bcrypt-14a189b6\node_modules is being purged
+756 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\bcrypt-14a189b6\node_modules
+757 silly gentlyRm F:\git\property-app\node_modules\.staging\nan-e8e3237f\node_modules is being purged
+758 verbose gentlyRm don't care about contents; nuking F:\git\property-app\node_modules\.staging\nan-e8e3237f\node_modules
+759 silly doParallel preinstall 3
+760 silly preinstall bindings@1.2.1 F:\git\property-app\node_modules\.staging\bindings-1372576d
+761 info lifecycle bindings@1.2.1~preinstall: bindings@1.2.1
+762 silly preinstall nan@2.3.5 F:\git\property-app\node_modules\.staging\nan-e8e3237f
+763 info lifecycle nan@2.3.5~preinstall: nan@2.3.5
+764 silly preinstall bcrypt@0.8.7 F:\git\property-app\node_modules\.staging\bcrypt-14a189b6
+765 info lifecycle bcrypt@0.8.7~preinstall: bcrypt@0.8.7
+766 silly lifecycle bindings@1.2.1~preinstall: no script for preinstall, continuing
+767 silly lifecycle nan@2.3.5~preinstall: no script for preinstall, continuing
+768 silly lifecycle bcrypt@0.8.7~preinstall: no script for preinstall, continuing
+769 silly doReverseSerial remove 0
+770 silly doSerial move 0
+771 silly doSerial finalize 3
+772 silly finalize F:\git\property-app\node_modules\bindings
+773 silly finalize F:\git\property-app\node_modules\nan
+774 silly finalize F:\git\property-app\node_modules\bcrypt
+775 silly doSerial build 3
+776 silly build bindings@1.2.1
+777 info linkStuff bindings@1.2.1
+778 silly linkStuff bindings@1.2.1 has F:\git\property-app\node_modules as its parent node_modules
+779 verbose linkBins bindings@1.2.1
+780 verbose linkMans bindings@1.2.1
+781 silly build nan@2.3.5
+782 info linkStuff nan@2.3.5
+783 silly linkStuff nan@2.3.5 has F:\git\property-app\node_modules as its parent node_modules
+784 verbose linkBins nan@2.3.5
+785 verbose linkMans nan@2.3.5
+786 silly build bcrypt@0.8.7
+787 info linkStuff bcrypt@0.8.7
+788 silly linkStuff bcrypt@0.8.7 has F:\git\property-app\node_modules as its parent node_modules
+789 verbose linkBins bcrypt@0.8.7
+790 verbose linkMans bcrypt@0.8.7
+791 silly doSerial global-link 0
+792 silly doParallel update-linked 0
+793 silly doSerial install 3
+794 silly install bindings@1.2.1 F:\git\property-app\node_modules\.staging\bindings-1372576d
+795 info lifecycle bindings@1.2.1~install: bindings@1.2.1
+796 silly lifecycle bindings@1.2.1~install: no script for install, continuing
+797 silly install nan@2.3.5 F:\git\property-app\node_modules\.staging\nan-e8e3237f
+798 info lifecycle nan@2.3.5~install: nan@2.3.5
+799 silly lifecycle nan@2.3.5~install: no script for install, continuing
+800 silly install bcrypt@0.8.7 F:\git\property-app\node_modules\.staging\bcrypt-14a189b6
+801 info lifecycle bcrypt@0.8.7~install: bcrypt@0.8.7
+802 verbose lifecycle bcrypt@0.8.7~install: unsafe-perm in lifecycle true
+803 verbose lifecycle bcrypt@0.8.7~install: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;F:\git\property-app\node_modules\bcrypt\node_modules\.bin;F:\git\property-app\node_modules\.bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;F:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2011a\runtime\win64;C:\Program Files\MATLAB\R2011a\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_131;C:\Program Files (x86)\Yarn\bin;C:\Users\ishaq\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\ishaq\AppData\Local\Programs\Python\Python36\;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.0\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\ishaq\AppData\Roaming\Composer\vendor\bin;C:\Users\ishaq\AppData\Local\Microsoft\WindowsApps;C:\Users\ishaq\AppData\Roaming\npm;C:\Users\ishaq\AppData\Local\Yarn\bin
+804 verbose lifecycle bcrypt@0.8.7~install: CWD: F:\git\property-app\node_modules\bcrypt
+805 silly lifecycle bcrypt@0.8.7~install: Args: [ '/d /s /c', 'node-gyp rebuild' ]
+806 silly lifecycle bcrypt@0.8.7~install: Returned: code: 1  signal: null
+807 info lifecycle bcrypt@0.8.7~install: Failed to exec install script
+808 verbose unlock done using C:\Users\ishaq\AppData\Roaming\npm-cache\_locks\staging-3e775c3a37463ec8.lock for F:\git\property-app\node_modules\.staging
+809 silly rollbackFailedOptional Starting
+810 silly rollbackFailedOptional Finishing
+811 silly runTopLevelLifecycles Finishing
+812 silly install printInstalled
+813 warn eslint-config-airbnb@13.0.0 requires a peer of eslint-plugin-jsx-a11y@^2.2.3 but none was installed.
+814 verbose If you need help, you may report this error at:
+814 verbose     <https://github.com/npm/npm/issues>
+815 warn react-d3-basic@1.6.11 requires a peer of react@^0.14.7 but none was installed.
+816 verbose If you need help, you may report this error at:
+816 verbose     <https://github.com/npm/npm/issues>
+817 warn react-d3-basic@1.6.11 requires a peer of react-dom@^0.14.7 but none was installed.
+818 verbose If you need help, you may report this error at:
+818 verbose     <https://github.com/npm/npm/issues>
+819 warn react-d3-core@1.3.9 requires a peer of react@^0.14.7 but none was installed.
+820 verbose If you need help, you may report this error at:
+820 verbose     <https://github.com/npm/npm/issues>
+821 warn react-d3-core@1.3.9 requires a peer of react-dom@^0.14.7 but none was installed.
+822 verbose If you need help, you may report this error at:
+822 verbose     <https://github.com/npm/npm/issues>
+823 warn react-d3-shape@0.2.24 requires a peer of react@^0.14.7 but none was installed.
+824 verbose If you need help, you may report this error at:
+824 verbose     <https://github.com/npm/npm/issues>
+825 warn react-d3-shape@0.2.24 requires a peer of react-dom@^0.14.7 but none was installed.
+826 verbose If you need help, you may report this error at:
+826 verbose     <https://github.com/npm/npm/issues>
+827 warn slick-carousel@1.8.1 requires a peer of jquery@>=1.8.0 but none was installed.
+828 verbose If you need help, you may report this error at:
+828 verbose     <https://github.com/npm/npm/issues>
+829 verbose stack Error: bcrypt@0.8.7 install: `node-gyp rebuild`
+829 verbose stack Exit status 1
+829 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:255:16)
+829 verbose stack     at emitTwo (events.js:106:13)
+829 verbose stack     at EventEmitter.emit (events.js:191:7)
+829 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:40:14)
+829 verbose stack     at emitTwo (events.js:106:13)
+829 verbose stack     at ChildProcess.emit (events.js:191:7)
+829 verbose stack     at maybeClose (internal/child_process.js:886:16)
+829 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+830 verbose pkgid bcrypt@0.8.7
+831 verbose cwd F:\git\property-app
+832 error Windows_NT 10.0.14393
+833 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "update" "--save"
+834 error node v6.10.3
+835 error npm  v3.10.10
+836 error code ELIFECYCLE
+837 error bcrypt@0.8.7 install: `node-gyp rebuild`
+837 error Exit status 1
+838 error Failed at the bcrypt@0.8.7 install script 'node-gyp rebuild'.
+838 error Make sure you have the latest version of node.js and npm installed.
+838 error If you do, this is most likely a problem with the bcrypt package,
+838 error not with npm itself.
+838 error Tell the author that this fails on your system:
+838 error     node-gyp rebuild
+838 error You can get information on how to open an issue for this project with:
+838 error     npm bugs bcrypt
+838 error Or if that isn't available, you can get their info via:
+838 error     npm owner ls bcrypt
+838 error There is likely additional logging output above.
+839 verbose exit [ 1, true ]

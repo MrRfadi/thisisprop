@@ -1,0 +1,52 @@
+.u-floatRight {
+  @include gridle(float right);
+
+  margin-top: 1px;
+}
+
+.u-xl-textSize { font-size: $font-size-xl; }
+.u-lg-textSize { font-size: $font-size-lg; }
+.u-md-textSize { font-size: $font-size-md; }
+.u-sm-textSize { font-size: $font-size-sm; }
+.u-xs-textSize { font-size: $font-size-xs; }
+
+.u-formInput {
+  @include gridle(12);
+
+  margin-bottom: 10px;
+
+  > span {
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .anticon {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+
+  .ant-select,
+  .ant-input-number {
+    width: 100%;
+  }
+
+  .ant-switch {
+    width: 40px;
+  }
+}
+
+.Popover {
+  max-width: 300px;
+
+  p, a {
+    font-size: 12px;
+  }
+
+  p {
+    margin-bottom: 10px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

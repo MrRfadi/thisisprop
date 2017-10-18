@@ -1,0 +1,17 @@
+.PurchaseSection-MortgageSize { 
+  
+  @include gridle(12);
+
+  
+}
+
+.PurchaseSection-MortgageSize .Subscont span{
+  padding:10px 0px;
+  text-align: center;
+  padding-left:30px;
+  display:none;
+}
+
+//.PurchaseSection-MortgageSize .Subscont span[data-index='1']{
+//  padding-right:60px;
+//}

@@ -1,0 +1,29 @@
+.PropertySection-location {
+  @include gridle(12);
+
+  margin-bottom: 15px;
+  position: relative;
+
+  button {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background-color: $color-green-primary;
+    color: white;
+
+    span {
+      font-size: 12px;
+    }
+  }
+}
+
+.PropertySection-getListings {
+  margin: 15px 0 0 0;
+  min-height: auto;
+
+  button {
+    span {
+      margin: 0 !important;
+    }
+  }
+}

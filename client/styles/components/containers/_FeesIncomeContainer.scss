@@ -1,0 +1,154 @@
+.FeesIncomeContainer {
+  @include gridle(12);
+
+  &.is-active {
+    header i {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.FeesIncomeRentalContainer {
+  @include gridle(12);
+
+  &.is-active {
+    header i {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.PurchaseBasicContainer {
+  @include gridle(12);
+
+  &.is-active {
+    header i {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.FeesIncomeContainer-header {
+  padding: 15px;
+  cursor: pointer;
+  transition: all 0.25s ease-in-out;
+  border: 1px solid $color-black;
+  margin-bottom: 15px;
+
+  &:hover {
+    background-color: $color-green-accent;
+    border-color: $color-green-accent;
+
+    h3, i {
+      color: $color-white;
+    }
+  }
+
+  h3, i {
+    transition: all 0.25s ease-in-out;
+    color: $color-green-primary;
+  }
+
+  h3 {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: normal;
+  }
+}
+
+.FeesIncomeContainer-fees {
+ overflow: hidden;
+}
+
+.FeesIncomeContainer-income {
+  overflow: hidden;
+ }
+
+.Subs-btn
+{
+width:30px;
+height:30px;
+border-radius: 5px;
+text-align: center;
+background: none;
+border:1px solid rgba(70, 147, 140,0.8);
+outline:none;
+margin:5px 10px;
+}
+
+.Subs-btn:hover
+{
+  border:1px solid rgba(70, 147, 140,1);  
+  cursor:pointer;
+}
+
+.Subsval
+{
+  width:50%;
+  margin:0px;
+  border:none;
+  outline:none;
+  text-align: center;
+  @include gridle_state ( sm ) {
+    width:40%;
+  }
+}
+
+.Subslabel
+{
+  @include gridle(6);
+  @include gridle_state ( mobile ) {
+    @include gridle_grid ( 12 );
+}
+  padding:10px 0px;
+}
+
+.Subscont
+{
+  @include gridle(6);
+  @include gridle_state ( mobile ) {
+    @include gridle_grid ( 12 );
+    text-align:center;
+}
+
+@include gridle_state ( sm ) {
+  padding-right:0px;
+}
+
+  text-align:right;
+  padding-right:10px;
+}
+
+.dispoff
+{
+  visibility:hidden;
+}
+
+.Subcont Switch
+{
+  text-align:center;
+}
+
+.About
+{
+margin:10px;
+padding:10px;
+font-size: 14px;
+text-align: justify;
+}
+
+.About p{
+  margin-bottom:10px;
+  margin-top:10px;
+}
+
+
+.About table td,{
+  border:1px solid black;
+  padding:10px;
+}
+
+.About table th,{
+  border:1px solid black;
+  padding:10px;
+}

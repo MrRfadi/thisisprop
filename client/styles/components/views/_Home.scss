@@ -1,0 +1,25 @@
+.Home {
+  @include gridle(container);
+
+  .SearchAndListings {
+    //@include gridle(12 sm 4.5 prefix 0.5);
+    @include gridle(6);
+    @include gridle_state(xs) {
+      // position: fixed;
+      @include gridle(12);
+    }
+    //padding: 0 20px 0 0;
+    padding:20px;
+  }
+
+  .MortgageAndReturns {
+    //@include gridle(12 sm 4.5 suffix 0.5);
+    @include gridle_state(xs) {
+      // position: fixed;
+      @include gridle(12);
+    }
+    @include gridle(6);
+    //padding: 0 0 0 20px;
+    padding:20px;
+  }
+}
